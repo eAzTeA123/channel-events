@@ -32,6 +32,39 @@
     },
     "tvg_id": "M+.Vamos.es"
   },
+  "6": {
+    "start_url": "https://daddylive.dad/cast/stream-6.php",
+    "channel_url": "https://fnjplay.xyz/premiumtv/daddylivehd.php?id=6",
+    "channel_id": "6",
+    "channel_key": "premium6",
+    "server_key": "nfs",
+    "m3u8_url": "https://nfsnew.newkso.ru/nfs/premium6/mono.m3u8",
+    "key_url": null,
+    "is_encrypted": false,
+    "aes_key": null,
+    "vars": {
+      "__a": "https://top2new.newkso.ru/",
+      "__b": "auth.php",
+      "__c": "1754070771",
+      "__d": "e12d8c3e",
+      "__e": "002a79bbce813279496b07b7d155acbd8d20bb582dc1b9bdd13c7febb2e388ce"
+    },
+    "auth_url": "https://top2new.newkso.ru/auth.php?channel_id=premium6&ts=1754070771&rnd=e12d8c3e&sig=002a79bbce813279496b07b7d155acbd8d20bb582dc1b9bdd13c7febb2e388ce",
+    "lookup_url": "https://forcedtoplay.xyz/server_lookup.php?channel_id=premium6",
+    "timestamp": "2025-08-01 19:52:53",
+    "proxy_base": "http://localhost:5000",
+    "headers": {
+      "User-Agent": "AppleCoreMedia/1.0.0.22F76 (iPhone; U; CPU OS 18_5 like Mac OS X; de_de)",
+      "Accept-Encoding": "identity",
+      "Referer": "https://forcedtoplay.xyz/",
+      "Origin": "https://forcedtoplay.xyz",
+      "Sec-Fetch-Dest": "video",
+      "Sec-Fetch-Mode": "no-cors",
+      "Sec-Fetch-Site": "cross-site",
+      "Connection": "keep-alive"
+    },
+    "tvg-id": "Magenta Sport"
+  },
   "857": {
     "start_url": "https://daddylive.dad/cast/stream-857.php",
     "channel_url": "https://yoxplay.xyz/premiumtv/daddylivehd.php?id=857",
@@ -22306,38 +22339,6 @@
       "Connection": "keep-alive"
     },
     "tvg_id": "test"
-  },
-  "6": {
-    "start_url": "https://daddylive.dad/cast/stream-6.php",
-    "channel_url": "https://fnjplay.xyz/premiumtv/daddylivehd.php?id=6",
-    "channel_id": "6",
-    "channel_key": "premium6",
-    "server_key": "nfs",
-    "m3u8_url": "https://nfsnew.newkso.ru/nfs/premium6/mono.m3u8",
-    "key_url": null,
-    "is_encrypted": false,
-    "aes_key": null,
-    "vars": {
-      "__a": "https://top2new.newkso.ru/",
-      "__b": "auth.php",
-      "__c": "1754070771",
-      "__d": "e12d8c3e",
-      "__e": "002a79bbce813279496b07b7d155acbd8d20bb582dc1b9bdd13c7febb2e388ce"
-    },
-    "auth_url": "https://top2new.newkso.ru/auth.php?channel_id=premium6&ts=1754070771&rnd=e12d8c3e&sig=002a79bbce813279496b07b7d155acbd8d20bb582dc1b9bdd13c7febb2e388ce",
-    "lookup_url": "https://forcedtoplay.xyz/server_lookup.php?channel_id=premium6",
-    "timestamp": "2025-08-01 19:52:53",
-    "proxy_base": "http://localhost:5000",
-    "headers": {
-      "User-Agent": "AppleCoreMedia/1.0.0.22F76 (iPhone; U; CPU OS 18_5 like Mac OS X; de_de)",
-      "Accept-Encoding": "identity",
-      "Referer": "https://forcedtoplay.xyz/",
-      "Origin": "https://forcedtoplay.xyz",
-      "Sec-Fetch-Dest": "video",
-      "Sec-Fetch-Mode": "no-cors",
-      "Sec-Fetch-Site": "cross-site",
-      "Connection": "keep-alive"
-    },
-    "tvg-id": "Magenta Sport"
   }
 }
+
