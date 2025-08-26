@@ -32,7 +32,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "Magenta Sport",
+    "tvg-id": "Magenta Sport",
     "group_title": "GERMANY"
   },
   "31": {
@@ -68,7 +68,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "TNT.Sports.1.HD.uk",
+    "tvg-id": "TNT.Sports.1.HD.uk",
     "group_title": "UNITED KINGDOM"
   },
   "32": {
@@ -104,7 +104,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "TNT.Sports.2.HD.uk",
+    "tvg-id": "TNT.Sports.2.HD.uk",
     "group_title": "UNITED KINGDOM"
   },
   "33": {
@@ -140,7 +140,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "TNT.Sports.3.HD.uk",
+    "tvg-id": "TNT.Sports.3.HD.uk",
     "group_title": "UNITED KINGDOM"
   },
   "34": {
@@ -176,7 +176,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "TNT.Sports.4.HD.uk",
+    "tvg-id": "TNT.Sports.4.HD.uk",
     "group_title": "UNITED KINGDOM"
   },
   "35": {
@@ -212,7 +212,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "SkySp.Fball.uk",
+    "tvg-id": "SkySp.Fball.uk",
     "group_title": "UNITED KINGDOM"
   },
   "36": {
@@ -248,7 +248,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "SkySportsArena.uk",
+    "tvg-id": "SkySportsArena.uk",
     "group_title": "UNITED KINGDOM"
   },
   "37": {
@@ -284,7 +284,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "SkySp.Action.uk",
+    "tvg-id": "SkySp.Action.uk",
     "group_title": "UNITED KINGDOM"
   },
   "38": {
@@ -320,7 +320,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "SkySpMainEv.uk",
+    "tvg-id": "SkySpMainEv.uk",
     "group_title": "UNITED KINGDOM"
   },
   "39": {
@@ -356,7 +356,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "Fox.Sports.1.us",
+    "tvg-id": "Fox.Sports.1.us",
     "group_title": "UNITED STATES"
   },
   "40": {
@@ -392,7 +392,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "The.Tennis.Channel.us",
+    "tvg-id": "The.Tennis.Channel.us",
     "group_title": "UNITED STATES"
   },
   "43": {
@@ -428,7 +428,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "beIN_SPORTS_XTRA2_Digital_Mono_EN.bein",
+    "tvg-id": "beIN_SPORTS_XTRA2_Digital_Mono_EN.bein",
     "group_title": "OTHERS"
   },
   "44": {
@@ -464,7 +464,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "ESPN.us",
+    "tvg-id": "ESPN.us",
     "group_title": "UNITED STATES"
   },
   "45": {
@@ -500,7 +500,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "ESPN2.us",
+    "tvg-id": "ESPN2.us",
     "group_title": "UNITED STATES"
   },
   "46": {
@@ -536,7 +536,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "test",
+    "tvg-id": "test",
     "group_title": "OTHERS"
   },
   "47": {
@@ -572,7 +572,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "Polsat.Sport.pl",
+    "tvg-id": "Polsat.Sport.pl",
     "group_title": "POLAND"
   },
   "48": {
@@ -608,7 +608,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "CANAL+.Sport.pl",
+    "tvg-id": "CANAL+.Sport.pl",
     "group_title": "POLAND"
   },
   "49": {
@@ -644,7 +644,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "SPORT.TV1.HD.pt",
+    "tvg-id": "SPORT.TV1.HD.pt",
     "group_title": "PORTUGAL"
   },
   "50": {
@@ -680,7 +680,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "Polsat.Sport.Extra.pl",
+    "tvg-id": "Polsat.Sport.Extra.pl",
     "group_title": "POLAND"
   },
   "51": {
@@ -716,7 +716,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "ABC.(WABC).New.York,.NY.us",
+    "tvg-id": "ABC.(WABC).New.York,.NY.us",
     "group_title": "UNITED STATES"
   },
   "52": {
@@ -752,7 +752,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "CBS.(KCBS).Los.Angeles,.CA.us",
+    "tvg-id": "CBS.(KCBS).Los.Angeles,.CA.us",
     "group_title": "UNITED STATES"
   },
   "53": {
@@ -788,7 +788,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "NBC.Sports.us",
+    "tvg-id": "NBC.Sports.us",
     "group_title": "UNITED STATES"
   },
   "54": {
@@ -824,7 +824,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "FOX.(KTTV).Los.Angeles,.CA.us",
+    "tvg-id": "FOX.(KTTV).Los.Angeles,.CA.us",
     "group_title": "UNITED STATES"
   },
   "57": {
@@ -860,7 +860,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "Eurosport.1.pl",
+    "tvg-id": "Eurosport.1.pl",
     "group_title": "POLAND"
   },
   "58": {
@@ -896,7 +896,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "Eurosport.2.pl",
+    "tvg-id": "Eurosport.2.pl",
     "group_title": "POLAND"
   },
   "60": {
@@ -932,7 +932,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "SkySp.F1.uk",
+    "tvg-id": "SkySp.F1.uk",
     "group_title": "UNITED KINGDOM"
   },
   "61": {
@@ -968,7 +968,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "test",
+    "tvg-id": "test",
     "group_title": "OTHERS"
   },
   "62": {
@@ -1004,7 +1004,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "Beinsports.tr",
+    "tvg-id": "Beinsports.tr",
     "group_title": "TURKEY"
   },
   "63": {
@@ -1040,7 +1040,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "Beinsports.2.tr",
+    "tvg-id": "Beinsports.2.tr",
     "group_title": "TURKEY"
   },
   "64": {
@@ -1076,7 +1076,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "Beinsports.3.tr",
+    "tvg-id": "Beinsports.3.tr",
     "group_title": "TURKEY"
   },
   "65": {
@@ -1112,7 +1112,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "SkySp.Cricket.uk",
+    "tvg-id": "SkySp.Cricket.uk",
     "group_title": "UNITED KINGDOM"
   },
   "66": {
@@ -1148,7 +1148,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "TUDN.us",
+    "tvg-id": "TUDN.us",
     "group_title": "UNITED STATES"
   },
   "67": {
@@ -1184,7 +1184,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "Beinsports.4.tr",
+    "tvg-id": "Beinsports.4.tr",
     "group_title": "TURKEY"
   },
   "70": {
@@ -1220,7 +1220,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "SkySp.Golf.uk",
+    "tvg-id": "SkySp.Golf.uk",
     "group_title": "UNITED KINGDOM"
   },
   "71": {
@@ -1256,7 +1256,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "Eleven.Sports.1.pl",
+    "tvg-id": "Eleven.Sports.1.pl",
     "group_title": "POLAND"
   },
   "72": {
@@ -1292,7 +1292,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "Eleven.Sports.2.pl",
+    "tvg-id": "Eleven.Sports.2.pl",
     "group_title": "POLAND"
   },
   "73": {
@@ -1328,7 +1328,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "CANAL+.Sport.2.pl",
+    "tvg-id": "CANAL+.Sport.2.pl",
     "group_title": "POLAND"
   },
   "74": {
@@ -1364,7 +1364,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "SPORT.TV2.HD.pt",
+    "tvg-id": "SPORT.TV2.HD.pt",
     "group_title": "PORTUGAL"
   },
   "75": {
@@ -1400,7 +1400,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "CANAL+.Sport.5.pl",
+    "tvg-id": "CANAL+.Sport.5.pl",
     "group_title": "POLAND"
   },
   "78": {
@@ -1436,7 +1436,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "SPORTV.br",
+    "tvg-id": "SPORTV.br",
     "group_title": "BRAZIL"
   },
   "79": {
@@ -1472,7 +1472,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "SPORTV.2.br",
+    "tvg-id": "SPORTV.2.br",
     "group_title": "BRAZIL"
   },
   "80": {
@@ -1508,7 +1508,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "SPORTV.3.br",
+    "tvg-id": "SPORTV.3.br",
     "group_title": "BRAZIL"
   },
   "81": {
@@ -1544,7 +1544,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "ESPN.br",
+    "tvg-id": "ESPN.br",
     "group_title": "BRAZIL"
   },
   "82": {
@@ -1580,7 +1580,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "ESPN.2.br",
+    "tvg-id": "ESPN.2.br",
     "group_title": "BRAZIL"
   },
   "83": {
@@ -1616,7 +1616,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "ESPN.3.br",
+    "tvg-id": "ESPN.3.br",
     "group_title": "BRAZIL"
   },
   "84": {
@@ -1652,7 +1652,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "MovistarLaLiga(Spanish).es",
+    "tvg-id": "MovistarLaLiga(Spanish).es",
     "group_title": "SPAIN"
   },
   "85": {
@@ -1688,7 +1688,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "ESPN.4.br",
+    "tvg-id": "ESPN.4.br",
     "group_title": "BRAZIL"
   },
   "87": {
@@ -1724,7 +1724,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "TNT(Portuguese).br",
+    "tvg-id": "TNT(Portuguese).br",
     "group_title": "BRAZIL"
   },
   "88": {
@@ -1760,7 +1760,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "Premiere..br",
+    "tvg-id": "Premiere..br",
     "group_title": "BRAZIL"
   },
   "89": {
@@ -1796,7 +1796,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "Combate..br",
+    "tvg-id": "Combate..br",
     "group_title": "BRAZIL"
   },
   "90": {
@@ -1832,7 +1832,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "test",
+    "tvg-id": "test",
     "group_title": "OTHERS"
   },
   "91": {
@@ -1868,7 +1868,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "test",
+    "tvg-id": "test",
     "group_title": "OTHERS"
   },
   "92": {
@@ -1904,7 +1904,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "test",
+    "tvg-id": "test",
     "group_title": "OTHERS"
   },
   "93": {
@@ -1940,7 +1940,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "test",
+    "tvg-id": "test",
     "group_title": "OTHERS"
   },
   "94": {
@@ -1976,7 +1976,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "test",
+    "tvg-id": "test",
     "group_title": "OTHERS"
   },
   "95": {
@@ -2012,7 +2012,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "test",
+    "tvg-id": "test",
     "group_title": "OTHERS"
   },
   "96": {
@@ -2048,7 +2048,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "test",
+    "tvg-id": "test",
     "group_title": "OTHERS"
   },
   "97": {
@@ -2084,7 +2084,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "test",
+    "tvg-id": "test",
     "group_title": "OTHERS"
   },
   "98": {
@@ -2120,7 +2120,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "test",
+    "tvg-id": "test",
     "group_title": "OTHERS"
   },
   "99": {
@@ -2156,7 +2156,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "test",
+    "tvg-id": "test",
     "group_title": "OTHERS"
   },
   "100": {
@@ -2192,7 +2192,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "test",
+    "tvg-id": "test",
     "group_title": "OTHERS"
   },
   "101": {
@@ -2228,7 +2228,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "test",
+    "tvg-id": "test",
     "group_title": "SERBIA"
   },
   "102": {
@@ -2264,7 +2264,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "test",
+    "tvg-id": "test",
     "group_title": "SERBIA"
   },
   "103": {
@@ -2300,7 +2300,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "test",
+    "tvg-id": "test",
     "group_title": "SERBIA"
   },
   "104": {
@@ -2336,7 +2336,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "test",
+    "tvg-id": "test",
     "group_title": "SERBIA"
   },
   "111": {
@@ -2372,7 +2372,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "TSN1.ca",
+    "tvg-id": "TSN1.ca",
     "group_title": "CANADA"
   },
   "112": {
@@ -2408,7 +2408,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "TSN2.ca",
+    "tvg-id": "TSN2.ca",
     "group_title": "CANADA"
   },
   "113": {
@@ -2444,7 +2444,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "TSN3.ca",
+    "tvg-id": "TSN3.ca",
     "group_title": "CANADA"
   },
   "114": {
@@ -2480,7 +2480,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "TSN4.ca",
+    "tvg-id": "TSN4.ca",
     "group_title": "CANADA"
   },
   "115": {
@@ -2516,7 +2516,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "TSN5.ca",
+    "tvg-id": "TSN5.ca",
     "group_title": "CANADA"
   },
   "116": {
@@ -2552,7 +2552,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "beIN.SPORTS.1.fr",
+    "tvg-id": "beIN.SPORTS.1.fr",
     "group_title": "FRANCE"
   },
   "117": {
@@ -2588,7 +2588,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "beIN.SPORTS.2.fr",
+    "tvg-id": "beIN.SPORTS.2.fr",
     "group_title": "FRANCE"
   },
   "118": {
@@ -2624,7 +2624,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "beIN.SPORTS.3.fr",
+    "tvg-id": "beIN.SPORTS.3.fr",
     "group_title": "FRANCE"
   },
   "119": {
@@ -2660,7 +2660,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "RMC.Sport.1.fr",
+    "tvg-id": "RMC.Sport.1.fr",
     "group_title": "FRANCE"
   },
   "120": {
@@ -2696,7 +2696,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "RMC.Sport.2.fr",
+    "tvg-id": "RMC.Sport.2.fr",
     "group_title": "FRANCE"
   },
   "121": {
@@ -2732,7 +2732,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "CANAL+.fr",
+    "tvg-id": "CANAL+.fr",
     "group_title": "FRANCE"
   },
   "122": {
@@ -2768,7 +2768,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "CANAL+.SPORT.fr",
+    "tvg-id": "CANAL+.SPORT.fr",
     "group_title": "FRANCE"
   },
   "123": {
@@ -2804,7 +2804,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "test",
+    "tvg-id": "test",
     "group_title": "MALAYSIA"
   },
   "124": {
@@ -2840,7 +2840,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "test",
+    "tvg-id": "test",
     "group_title": "MALAYSIA"
   },
   "125": {
@@ -2876,7 +2876,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "test",
+    "tvg-id": "test",
     "group_title": "MALAYSIA"
   },
   "126": {
@@ -2912,7 +2912,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "test",
+    "tvg-id": "test",
     "group_title": "MALAYSIA"
   },
   "127": {
@@ -2948,7 +2948,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "test",
+    "tvg-id": "test",
     "group_title": "RUSSIA"
   },
   "128": {
@@ -2984,7 +2984,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "TVP.Sport.pl",
+    "tvg-id": "TVP.Sport.pl",
     "group_title": "POLAND"
   },
   "129": {
@@ -3020,7 +3020,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "Polsat.Sport.News.HD.pl",
+    "tvg-id": "Polsat.Sport.News.HD.pl",
     "group_title": "POLAND"
   },
   "130": {
@@ -3056,7 +3056,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "SkySportsPremierLeague.uk",
+    "tvg-id": "SkySportsPremierLeague.uk",
     "group_title": "UNITED KINGDOM"
   },
   "131": {
@@ -3092,7 +3092,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "Telemundo..-.Eastern.Feed.us",
+    "tvg-id": "Telemundo..-.Eastern.Feed.us",
     "group_title": "UNITED STATES"
   },
   "132": {
@@ -3128,7 +3128,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "Univision.-.Eastern.Feed.us",
+    "tvg-id": "Univision.-.Eastern.Feed.us",
     "group_title": "UNITED STATES"
   },
   "133": {
@@ -3164,7 +3164,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "UniMás..-.Network.Pacific.us",
+    "tvg-id": "UniMás..-.Network.Pacific.us",
     "group_title": "UNITED STATES"
   },
   "134": {
@@ -3200,7 +3200,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "test",
+    "tvg-id": "test",
     "group_title": "SERBIA"
   },
   "135": {
@@ -3236,7 +3236,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "test",
+    "tvg-id": "test",
     "group_title": "SERBIA"
   },
   "136": {
@@ -3272,7 +3272,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "test",
+    "tvg-id": "test",
     "group_title": "RUSSIA"
   },
   "137": {
@@ -3308,7 +3308,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "test",
+    "tvg-id": "test",
     "group_title": "RUSSIA"
   },
   "138": {
@@ -3344,7 +3344,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "test",
+    "tvg-id": "test",
     "group_title": "RUSSIA"
   },
   "139": {
@@ -3380,7 +3380,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "test",
+    "tvg-id": "test",
     "group_title": "SERBIA"
   },
   "140": {
@@ -3416,7 +3416,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "Sport.1.HD.il",
+    "tvg-id": "Sport.1.HD.il",
     "group_title": "ISRAEL"
   },
   "141": {
@@ -3452,7 +3452,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "Sport.2.HD.il",
+    "tvg-id": "Sport.2.HD.il",
     "group_title": "ISRAEL"
   },
   "142": {
@@ -3488,7 +3488,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "Sport.3.HD.il",
+    "tvg-id": "Sport.3.HD.il",
     "group_title": "ISRAEL"
   },
   "143": {
@@ -3524,7 +3524,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "Sport.4.HD.il",
+    "tvg-id": "Sport.4.HD.il",
     "group_title": "ISRAEL"
   },
   "144": {
@@ -3560,7 +3560,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "Sport.5.HD.(55).il",
+    "tvg-id": "Sport.5.HD.(55).il",
     "group_title": "ISRAEL"
   },
   "145": {
@@ -3596,7 +3596,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "Sport.5+.HD.(56).il",
+    "tvg-id": "Sport.5+.HD.(56).il",
     "group_title": "ISRAEL"
   },
   "146": {
@@ -3632,7 +3632,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "Sport.5.Live.HD.(58).il",
+    "tvg-id": "Sport.5.Live.HD.(58).il",
     "group_title": "ISRAEL"
   },
   "147": {
@@ -3668,7 +3668,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "Sport.5.Stars.HD.(59).il",
+    "tvg-id": "Sport.5.Stars.HD.(59).il",
     "group_title": "ISRAEL"
   },
   "148": {
@@ -3704,7 +3704,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "Sport.5.Gold.(57).il",
+    "tvg-id": "Sport.5.Gold.(57).il",
     "group_title": "ISRAEL"
   },
   "149": {
@@ -3740,7 +3740,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "test",
+    "tvg-id": "test",
     "group_title": "ARGENTINA"
   },
   "150": {
@@ -3776,7 +3776,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "test",
+    "tvg-id": "test",
     "group_title": "ARGENTINA"
   },
   "206": {
@@ -3812,7 +3812,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "American.Heroes.Channel.us",
+    "tvg-id": "American.Heroes.Channel.us",
     "group_title": "UNITED STATES"
   },
   "223": {
@@ -3848,7 +3848,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "TV3Max(src01).dk",
+    "tvg-id": "TV3Max(src01).dk",
     "group_title": "DENMARK"
   },
   "268": {
@@ -3884,7 +3884,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "STAR.SPORTS.1.HINDI.in",
+    "tvg-id": "STAR.SPORTS.1.HINDI.in",
     "group_title": "INDIA"
   },
   "269": {
@@ -3920,7 +3920,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "test",
+    "tvg-id": "test",
     "group_title": "PAKISTAN"
   },
   "272": {
@@ -3956,7 +3956,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "V.Sport.Motor.se",
+    "tvg-id": "V.Sport.Motor.se",
     "group_title": "SWEDEN"
   },
   "273": {
@@ -3992,7 +3992,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "CANAL+.FORMULA1.fr",
+    "tvg-id": "CANAL+.FORMULA1.fr",
     "group_title": "FRANCE"
   },
   "274": {
@@ -4028,7 +4028,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "SKY.Sport.F1.de",
+    "tvg-id": "SKY.Sport.F1.de",
     "group_title": "GERMANY"
   },
   "275": {
@@ -4064,7 +4064,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "Bandsports.HD.br",
+    "tvg-id": "Bandsports.HD.br",
     "group_title": "BRAZIL"
   },
   "276": {
@@ -4100,7 +4100,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "test",
+    "tvg-id": "test",
     "group_title": "UNITED KINGDOM"
   },
   "277": {
@@ -4136,7 +4136,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "test",
+    "tvg-id": "test",
     "group_title": "UNITED STATES"
   },
   "278": {
@@ -4172,7 +4172,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "Law.and.Crime.us",
+    "tvg-id": "Law.and.Crime.us",
     "group_title": "UNITED STATES"
   },
   "279": {
@@ -4208,7 +4208,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "FUSE.TV.-.Eastern.feed.us",
+    "tvg-id": "FUSE.TV.-.Eastern.feed.us",
     "group_title": "UNITED STATES"
   },
   "280": {
@@ -4244,7 +4244,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "test",
+    "tvg-id": "test",
     "group_title": "UNITED STATES"
   },
   "281": {
@@ -4280,7 +4280,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "Court.TV.US.us",
+    "tvg-id": "Court.TV.US.us",
     "group_title": "UNITED STATES"
   },
   "282": {
@@ -4316,7 +4316,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "test",
+    "tvg-id": "test",
     "group_title": "UNITED ARAB EMIRATES"
   },
   "283": {
@@ -4352,7 +4352,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "test",
+    "tvg-id": "test",
     "group_title": "UNITED ARAB EMIRATES"
   },
   "284": {
@@ -4388,7 +4388,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "test",
+    "tvg-id": "test",
     "group_title": "UNITED ARAB EMIRATES"
   },
   "285": {
@@ -4424,7 +4424,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "CTV.Speed.ca",
+    "tvg-id": "CTV.Speed.ca",
     "group_title": "CANADA"
   },
   "287": {
@@ -4460,7 +4460,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "test",
+    "tvg-id": "test",
     "group_title": "UNITED STATES"
   },
   "288": {
@@ -4496,7 +4496,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "ESPN.News.us",
+    "tvg-id": "ESPN.News.us",
     "group_title": "UNITED STATES"
   },
   "289": {
@@ -4532,7 +4532,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "SPORT.TV4.HD.pt",
+    "tvg-id": "SPORT.TV4.HD.pt",
     "group_title": "PORTUGAL"
   },
   "290": {
@@ -4568,7 +4568,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "SPORT.TV5.HD.pt",
+    "tvg-id": "SPORT.TV5.HD.pt",
     "group_title": "PORTUGAL"
   },
   "291": {
@@ -4604,7 +4604,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "SPORT.TV6.HD.pt",
+    "tvg-id": "SPORT.TV6.HD.pt",
     "group_title": "PORTUGAL"
   },
   "292": {
@@ -4640,7 +4640,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "NewsNation.-.Eastern.Feed.us",
+    "tvg-id": "NewsNation.-.Eastern.Feed.us",
     "group_title": "UNITED STATES"
   },
   "293": {
@@ -4676,7 +4676,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "ReelzChannel.us",
+    "tvg-id": "ReelzChannel.us",
     "group_title": "UNITED STATES"
   },
   "294": {
@@ -4712,7 +4712,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "Science.us",
+    "tvg-id": "Science.us",
     "group_title": "UNITED STATES"
   },
   "295": {
@@ -4748,7 +4748,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "AdultSwim.com.Cartoon.Network.us",
+    "tvg-id": "AdultSwim.com.Cartoon.Network.us",
     "group_title": "UNITED STATES"
   },
   "296": {
@@ -4784,7 +4784,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "Hallmark.Mystery.Eastern.-.HD.us",
+    "tvg-id": "Hallmark.Mystery.Eastern.-.HD.us",
     "group_title": "UNITED STATES"
   },
   "297": {
@@ -4820,7 +4820,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "Fox.Business.us",
+    "tvg-id": "Fox.Business.us",
     "group_title": "UNITED STATES"
   },
   "298": {
@@ -4856,7 +4856,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "FXX.USA.-.Eastern.us",
+    "tvg-id": "FXX.USA.-.Eastern.us",
     "group_title": "UNITED STATES"
   },
   "299": {
@@ -4892,7 +4892,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "Magnolia.-.East.us",
+    "tvg-id": "Magnolia.-.East.us",
     "group_title": "UNITED STATES"
   },
   "300": {
@@ -4928,7 +4928,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "test",
+    "tvg-id": "test",
     "group_title": "UNITED STATES"
   },
   "301": {
@@ -4964,7 +4964,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "Freeform.-.East.Feed.us",
+    "tvg-id": "Freeform.-.East.Feed.us",
     "group_title": "UNITED STATES"
   },
   "302": {
@@ -5000,7 +5000,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "A.and.E.US.-.Eastern.Feed.us",
+    "tvg-id": "A.and.E.US.-.Eastern.Feed.us",
     "group_title": "UNITED STATES"
   },
   "303": {
@@ -5036,7 +5036,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "AMC.-.Eastern.Feed.us",
+    "tvg-id": "AMC.-.Eastern.Feed.us",
     "group_title": "UNITED STATES"
   },
   "304": {
@@ -5072,7 +5072,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "Animal.Planet.US.-.East.us",
+    "tvg-id": "Animal.Planet.US.-.East.us",
     "group_title": "UNITED STATES"
   },
   "305": {
@@ -5108,7 +5108,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "BBC.America.-.East.us",
+    "tvg-id": "BBC.America.-.East.us",
     "group_title": "UNITED STATES"
   },
   "307": {
@@ -5144,7 +5144,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "Bravo.USA.-.Eastern.Feed.us",
+    "tvg-id": "Bravo.USA.-.Eastern.Feed.us",
     "group_title": "UNITED STATES"
   },
   "308": {
@@ -5180,7 +5180,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "CBS.Sports.Network.USA.us",
+    "tvg-id": "CBS.Sports.Network.USA.us",
     "group_title": "UNITED STATES"
   },
   "309": {
@@ -5216,7 +5216,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "CNBC.USA.us",
+    "tvg-id": "CNBC.USA.us",
     "group_title": "UNITED STATES"
   },
   "310": {
@@ -5252,7 +5252,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "Comedy.Central.(US).-.Eastern.Feed.us",
+    "tvg-id": "Comedy.Central.(US).-.Eastern.Feed.us",
     "group_title": "UNITED STATES"
   },
   "311": {
@@ -5288,7 +5288,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "Discovery.Life.Channel.us",
+    "tvg-id": "Discovery.Life.Channel.us",
     "group_title": "UNITED STATES"
   },
   "312": {
@@ -5324,7 +5324,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "Disney.-.Eastern.Feed.us",
+    "tvg-id": "Disney.-.Eastern.Feed.us",
     "group_title": "UNITED STATES"
   },
   "313": {
@@ -5360,7 +5360,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "Discovery.Channel.(US).-.Eastern.Feed.us",
+    "tvg-id": "Discovery.Channel.(US).-.Eastern.Feed.us",
     "group_title": "UNITED STATES"
   },
   "314": {
@@ -5396,7 +5396,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "Disney.XD.USA.-.Eastern.Feed.us",
+    "tvg-id": "Disney.XD.USA.-.Eastern.Feed.us",
     "group_title": "UNITED STATES"
   },
   "315": {
@@ -5432,7 +5432,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "E!.Entertainment.USA.-.Eastern.Feed.us",
+    "tvg-id": "E!.Entertainment.USA.-.Eastern.Feed.us",
     "group_title": "UNITED STATES"
   },
   "316": {
@@ -5468,7 +5468,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "ESPN.U.us",
+    "tvg-id": "ESPN.U.us",
     "group_title": "UNITED STATES"
   },
   "317": {
@@ -5504,7 +5504,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "FX.Networks.East.Coast.us",
+    "tvg-id": "FX.Networks.East.Coast.us",
     "group_title": "UNITED STATES"
   },
   "318": {
@@ -5540,7 +5540,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "Golf.Channel.USA.us",
+    "tvg-id": "Golf.Channel.USA.us",
     "group_title": "UNITED STATES"
   },
   "319": {
@@ -5576,7 +5576,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "Game.Show.Network.-.East.us",
+    "tvg-id": "Game.Show.Network.-.East.us",
     "group_title": "UNITED STATES"
   },
   "320": {
@@ -5612,7 +5612,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "Hallmark.-.Eastern.Feed.us",
+    "tvg-id": "Hallmark.-.Eastern.Feed.us",
     "group_title": "UNITED STATES"
   },
   "321": {
@@ -5648,7 +5648,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "HBO.-.Eastern.Feed.us",
+    "tvg-id": "HBO.-.Eastern.Feed.us",
     "group_title": "UNITED STATES"
   },
   "322": {
@@ -5684,7 +5684,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "History.Channel.US.-.Eastern.Feed.us",
+    "tvg-id": "History.Channel.US.-.Eastern.Feed.us",
     "group_title": "UNITED STATES"
   },
   "323": {
@@ -5720,7 +5720,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "HLN.us",
+    "tvg-id": "HLN.us",
     "group_title": "UNITED STATES"
   },
   "324": {
@@ -5756,7 +5756,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "Investigation.Discovery.USA.-.Eastern.us",
+    "tvg-id": "Investigation.Discovery.USA.-.Eastern.us",
     "group_title": "UNITED STATES"
   },
   "325": {
@@ -5792,7 +5792,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "ION..-.Eastern.Feed.us",
+    "tvg-id": "ION..-.Eastern.Feed.us",
     "group_title": "UNITED STATES"
   },
   "326": {
@@ -5828,7 +5828,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "Lifetime.Network.US.-.Eastern.Feed.us",
+    "tvg-id": "Lifetime.Network.US.-.Eastern.Feed.us",
     "group_title": "UNITED STATES"
   },
   "327": {
@@ -5864,7 +5864,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "MSNBC.USA.us",
+    "tvg-id": "MSNBC.USA.us",
     "group_title": "UNITED STATES"
   },
   "328": {
@@ -5900,7 +5900,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "National.Geographic.US.-.Eastern.us",
+    "tvg-id": "National.Geographic.US.-.Eastern.us",
     "group_title": "UNITED STATES"
   },
   "329": {
@@ -5936,7 +5936,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "Nick.Jr..-.East.us",
+    "tvg-id": "Nick.Jr..-.East.us",
     "group_title": "UNITED STATES"
   },
   "330": {
@@ -5972,7 +5972,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "Nickelodeon.USA.-.East.Feed.us",
+    "tvg-id": "Nickelodeon.USA.-.East.Feed.us",
     "group_title": "UNITED STATES"
   },
   "331": {
@@ -6008,7 +6008,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "Oprah.Winfrey.Network.USA.Eastern.us",
+    "tvg-id": "Oprah.Winfrey.Network.USA.Eastern.us",
     "group_title": "UNITED STATES"
   },
   "332": {
@@ -6044,7 +6044,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "Oxygen.-.Eastern.Feed.us",
+    "tvg-id": "Oxygen.-.Eastern.Feed.us",
     "group_title": "UNITED STATES"
   },
   "333": {
@@ -6080,7 +6080,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "Paramount+.with.Showtime.-.Eastern.Feed.us",
+    "tvg-id": "Paramount+.with.Showtime.-.Eastern.Feed.us",
     "group_title": "UNITED STATES"
   },
   "334": {
@@ -6116,7 +6116,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "Paramount.Network.USA.-.Eastern.Feed.us",
+    "tvg-id": "Paramount.Network.USA.-.Eastern.Feed.us",
     "group_title": "UNITED STATES"
   },
   "335": {
@@ -6152,7 +6152,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "Starz.-.Eastern.us",
+    "tvg-id": "Starz.-.Eastern.us",
     "group_title": "UNITED STATES"
   },
   "336": {
@@ -6188,7 +6188,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "TBS.-.East.us",
+    "tvg-id": "TBS.-.East.us",
     "group_title": "UNITED STATES"
   },
   "337": {
@@ -6224,7 +6224,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "TLC.USA.-.Eastern.us",
+    "tvg-id": "TLC.USA.-.Eastern.us",
     "group_title": "UNITED STATES"
   },
   "338": {
@@ -6260,7 +6260,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "TNT.-.Eastern.Feed.us",
+    "tvg-id": "TNT.-.Eastern.Feed.us",
     "group_title": "UNITED STATES"
   },
   "339": {
@@ -6296,7 +6296,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "Cartoon.Network.USA.-.Eastern.Feed.us",
+    "tvg-id": "Cartoon.Network.USA.-.Eastern.Feed.us",
     "group_title": "UNITED STATES"
   },
   "340": {
@@ -6332,7 +6332,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "TheTravelChannel.us",
+    "tvg-id": "TheTravelChannel.us",
     "group_title": "UNITED STATES"
   },
   "341": {
@@ -6368,7 +6368,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "truTV.USA.-.Eastern.us",
+    "tvg-id": "truTV.USA.-.Eastern.us",
     "group_title": "UNITED STATES"
   },
   "342": {
@@ -6404,7 +6404,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "TV.Land.-.Eastern.us",
+    "tvg-id": "TV.Land.-.Eastern.us",
     "group_title": "UNITED STATES"
   },
   "343": {
@@ -6440,7 +6440,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "USA.Network.-.East.Feed.us",
+    "tvg-id": "USA.Network.-.East.Feed.us",
     "group_title": "UNITED STATES"
   },
   "344": {
@@ -6476,7 +6476,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "VH1.-.Eastern.Feed.us",
+    "tvg-id": "VH1.-.Eastern.Feed.us",
     "group_title": "UNITED STATES"
   },
   "345": {
@@ -6512,7 +6512,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "CNN.us",
+    "tvg-id": "CNN.us",
     "group_title": "UNITED STATES"
   },
   "346": {
@@ -6548,7 +6548,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "Willow.Cricket.HDTV.(WILLOWHD).us",
+    "tvg-id": "Willow.Cricket.HDTV.(WILLOWHD).us",
     "group_title": "UNITED STATES"
   },
   "347": {
@@ -6584,7 +6584,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "Fox.News.us",
+    "tvg-id": "Fox.News.us",
     "group_title": "UNITED STATES"
   },
   "348": {
@@ -6620,7 +6620,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "Dave(src01).uk",
+    "tvg-id": "Dave(src01).uk",
     "group_title": "UNITED KINGDOM"
   },
   "349": {
@@ -6656,7 +6656,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "BBC.World.News.North.America.(BBCWN).us",
+    "tvg-id": "BBC.World.News.North.America.(BBCWN).us",
     "group_title": "UNITED STATES"
   },
   "350": {
@@ -6692,7 +6692,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "ITV1.HD.uk",
+    "tvg-id": "ITV1.HD.uk",
     "group_title": "UNITED KINGDOM"
   },
   "351": {
@@ -6728,7 +6728,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "ITV2.HD.uk",
+    "tvg-id": "ITV2.HD.uk",
     "group_title": "UNITED KINGDOM"
   },
   "352": {
@@ -6764,7 +6764,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "ITV3.HD.uk",
+    "tvg-id": "ITV3.HD.uk",
     "group_title": "UNITED KINGDOM"
   },
   "353": {
@@ -6800,7 +6800,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "ITV4.HD.uk",
+    "tvg-id": "ITV4.HD.uk",
     "group_title": "UNITED KINGDOM"
   },
   "354": {
@@ -6836,7 +6836,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "Channel4.uk",
+    "tvg-id": "Channel4.uk",
     "group_title": "UNITED KINGDOM"
   },
   "355": {
@@ -6872,7 +6872,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "Channel.5.uk",
+    "tvg-id": "Channel.5.uk",
     "group_title": "UNITED KINGDOM"
   },
   "356": {
@@ -6908,7 +6908,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "BBCOne.uk",
+    "tvg-id": "BBCOne.uk",
     "group_title": "UNITED KINGDOM"
   },
   "357": {
@@ -6944,7 +6944,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "BBC.Two.HD.uk",
+    "tvg-id": "BBC.Two.HD.uk",
     "group_title": "UNITED KINGDOM"
   },
   "358": {
@@ -6980,7 +6980,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "BBC.Three.HD.uk",
+    "tvg-id": "BBC.Three.HD.uk",
     "group_title": "UNITED KINGDOM"
   },
   "360": {
@@ -7016,7 +7016,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "5.USA.uk",
+    "tvg-id": "5.USA.uk",
     "group_title": "UNITED KINGDOM"
   },
   "361": {
@@ -7052,7 +7052,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "Sky.Witness.HD.uk",
+    "tvg-id": "Sky.Witness.HD.uk",
     "group_title": "UNITED KINGDOM"
   },
   "362": {
@@ -7088,7 +7088,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "Sky.Atlantic.HD.uk",
+    "tvg-id": "Sky.Atlantic.HD.uk",
     "group_title": "UNITED KINGDOM"
   },
   "363": {
@@ -7124,7 +7124,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "E4.HD.uk",
+    "tvg-id": "E4.HD.uk",
     "group_title": "UNITED KINGDOM"
   },
   "364": {
@@ -7160,7 +7160,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "RTE1Network.uk",
+    "tvg-id": "RTE1Network.uk",
     "group_title": "UNITED KINGDOM"
   },
   "365": {
@@ -7196,7 +7196,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "RTE2.uk",
+    "tvg-id": "RTE2.uk",
     "group_title": "UNITED KINGDOM"
   },
   "366": {
@@ -7232,7 +7232,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "SkySp.News.HD.uk",
+    "tvg-id": "SkySp.News.HD.uk",
     "group_title": "UNITED KINGDOM"
   },
   "367": {
@@ -7268,7 +7268,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "MTV.HD.uk",
+    "tvg-id": "MTV.HD.uk",
     "group_title": "UNITED KINGDOM"
   },
   "368": {
@@ -7304,7 +7304,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "test",
+    "tvg-id": "test",
     "group_title": "SOUTH AFRICA"
   },
   "369": {
@@ -7340,7 +7340,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "FoxCricket.au",
+    "tvg-id": "FoxCricket.au",
     "group_title": "AUSTRALIA"
   },
   "370": {
@@ -7376,7 +7376,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "Astro.Cricket.my",
+    "tvg-id": "Astro.Cricket.my",
     "group_title": "MALAYSIA"
   },
   "371": {
@@ -7412,7 +7412,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "MTV.USA.-.Eastern.Feed.us",
+    "tvg-id": "MTV.USA.-.Eastern.Feed.us",
     "group_title": "UNITED STATES"
   },
   "372": {
@@ -7448,7 +7448,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "test",
+    "tvg-id": "test",
     "group_title": "OTHERS"
   },
   "373": {
@@ -7484,7 +7484,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "Syfy.-.Eastern.Feed.us",
+    "tvg-id": "Syfy.-.Eastern.Feed.us",
     "group_title": "UNITED STATES"
   },
   "374": {
@@ -7520,7 +7520,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "Cinemax.-.Eastern.Feed.us",
+    "tvg-id": "Cinemax.-.Eastern.Feed.us",
     "group_title": "UNITED STATES"
   },
   "375": {
@@ -7556,7 +7556,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "ESPN.Deportes.us",
+    "tvg-id": "ESPN.Deportes.us",
     "group_title": "UNITED STATES"
   },
   "376": {
@@ -7592,7 +7592,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "WWE.Network.us",
+    "tvg-id": "WWE.Network.us",
     "group_title": "UNITED STATES"
   },
   "377": {
@@ -7628,7 +7628,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "MUTV.HD.uk",
+    "tvg-id": "MUTV.HD.uk",
     "group_title": "UNITED KINGDOM"
   },
   "378": {
@@ -7664,7 +7664,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "Veronica.nl",
+    "tvg-id": "Veronica.nl",
     "group_title": "NETHERLANDS"
   },
   "379": {
@@ -7700,7 +7700,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "ESPN.1.nl",
+    "tvg-id": "ESPN.1.nl",
     "group_title": "NETHERLANDS"
   },
   "380": {
@@ -7736,7 +7736,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "BenficaTVMulticamaras(src01).pt",
+    "tvg-id": "BenficaTVMulticamaras(src01).pt",
     "group_title": "PORTUGAL"
   },
   "381": {
@@ -7772,7 +7772,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "FX.Movie.Channel.us",
+    "tvg-id": "FX.Movie.Channel.us",
     "group_title": "UNITED STATES"
   },
   "382": {
@@ -7808,7 +7808,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "HGTV.USA.-.Eastern.Feed.us",
+    "tvg-id": "HGTV.USA.-.Eastern.Feed.us",
     "group_title": "UNITED STATES"
   },
   "383": {
@@ -7844,7 +7844,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "Ziggo.Sport.5.nl",
+    "tvg-id": "Ziggo.Sport.5.nl",
     "group_title": "NETHERLANDS"
   },
   "384": {
@@ -7880,7 +7880,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "Food.Network.USA.-.Eastern.Feed.us",
+    "tvg-id": "Food.Network.USA.-.Eastern.Feed.us",
     "group_title": "UNITED STATES"
   },
   "385": {
@@ -7916,7 +7916,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "SEC.Network.us",
+    "tvg-id": "SEC.Network.us",
     "group_title": "UNITED STATES"
   },
   "386": {
@@ -7952,7 +7952,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "ESPN.2.nl",
+    "tvg-id": "ESPN.2.nl",
     "group_title": "NETHERLANDS"
   },
   "387": {
@@ -7988,7 +7988,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "test",
+    "tvg-id": "test",
     "group_title": "ARGENTINA"
   },
   "388": {
@@ -8024,7 +8024,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "test",
+    "tvg-id": "test",
     "group_title": "ARGENTINA"
   },
   "389": {
@@ -8060,7 +8060,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "Lifetime.Movies.-.East.us",
+    "tvg-id": "Lifetime.Movies.-.East.us",
     "group_title": "UNITED STATES"
   },
   "390": {
@@ -8096,7 +8096,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "RTL.7.nl",
+    "tvg-id": "RTL.7.nl",
     "group_title": "NETHERLANDS"
   },
   "391": {
@@ -8132,7 +8132,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "VTV.+.HD.uy",
+    "tvg-id": "VTV.+.HD.uy",
     "group_title": "URUGUAY"
   },
   "392": {
@@ -8168,7 +8168,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "test",
+    "tvg-id": "test",
     "group_title": "COLUMBIA"
   },
   "393": {
@@ -8204,7 +8204,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "Ziggo.Sport.nl",
+    "tvg-id": "Ziggo.Sport.nl",
     "group_title": "NETHERLANDS"
   },
   "394": {
@@ -8240,7 +8240,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "The.Weather.Channel.us",
+    "tvg-id": "The.Weather.Channel.us",
     "group_title": "UNITED STATES"
   },
   "395": {
@@ -8276,7 +8276,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "test",
+    "tvg-id": "test",
     "group_title": "RUSSIA"
   },
   "396": {
@@ -8312,7 +8312,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "Ziggo.Sport.4.nl",
+    "tvg-id": "Ziggo.Sport.4.nl",
     "group_title": "NETHERLANDS"
   },
   "397": {
@@ -8348,7 +8348,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "Big.Ten.Network.us",
+    "tvg-id": "Big.Ten.Network.us",
     "group_title": "UNITED STATES"
   },
   "398": {
@@ -8384,7 +8384,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "Ziggo.Sport.2.nl",
+    "tvg-id": "Ziggo.Sport.2.nl",
     "group_title": "NETHERLANDS"
   },
   "399": {
@@ -8420,7 +8420,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "MLB.Network.us",
+    "tvg-id": "MLB.Network.us",
     "group_title": "UNITED STATES"
   },
   "400": {
@@ -8456,7 +8456,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "Digi.Sport.1.ro",
+    "tvg-id": "Digi.Sport.1.ro",
     "group_title": "ROMANIA"
   },
   "401": {
@@ -8492,7 +8492,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "Digi.Sport.2.ro",
+    "tvg-id": "Digi.Sport.2.ro",
     "group_title": "ROMANIA"
   },
   "402": {
@@ -8528,7 +8528,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "Digi.Sport.3.ro",
+    "tvg-id": "Digi.Sport.3.ro",
     "group_title": "ROMANIA"
   },
   "403": {
@@ -8564,7 +8564,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "Digi.Sport.4.ro",
+    "tvg-id": "Digi.Sport.4.ro",
     "group_title": "ROMANIA"
   },
   "404": {
@@ -8600,7 +8600,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "NBA.TV.USA.us",
+    "tvg-id": "NBA.TV.USA.us",
     "group_title": "UNITED STATES"
   },
   "405": {
@@ -8636,7 +8636,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "NFL.Network.us",
+    "tvg-id": "NFL.Network.us",
     "group_title": "UNITED STATES"
   },
   "406": {
@@ -8672,7 +8672,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "Sportsnet.(Ontario).ca",
+    "tvg-id": "Sportsnet.(Ontario).ca",
     "group_title": "UNITED STATES"
   },
   "407": {
@@ -8708,7 +8708,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "Sportsnet.(West).-.Satellite/Digital.ca",
+    "tvg-id": "Sportsnet.(West).-.Satellite/Digital.ca",
     "group_title": "UNITED STATES"
   },
   "408": {
@@ -8744,7 +8744,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "Sportsnet.(East).-.Satellite/Digital.ca",
+    "tvg-id": "Sportsnet.(East).-.Satellite/Digital.ca",
     "group_title": "CANADA"
   },
   "409": {
@@ -8780,7 +8780,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "Sportsnet.360.ca",
+    "tvg-id": "Sportsnet.360.ca",
     "group_title": "CANADA"
   },
   "410": {
@@ -8816,7 +8816,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "Sportsnet.World.ca",
+    "tvg-id": "Sportsnet.World.ca",
     "group_title": "UNITED STATES"
   },
   "411": {
@@ -8852,7 +8852,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "Sportsnet.One.ca",
+    "tvg-id": "Sportsnet.One.ca",
     "group_title": "CANADA"
   },
   "412": {
@@ -8888,7 +8888,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "test",
+    "tvg-id": "test",
     "group_title": "SOUTH AFRICA"
   },
   "413": {
@@ -8924,7 +8924,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "test",
+    "tvg-id": "test",
     "group_title": "SOUTH AFRICA"
   },
   "414": {
@@ -8960,7 +8960,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "test",
+    "tvg-id": "test",
     "group_title": "SOUTH AFRICA"
   },
   "415": {
@@ -8996,7 +8996,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "test",
+    "tvg-id": "test",
     "group_title": "SOUTH AFRICA"
   },
   "416": {
@@ -9032,7 +9032,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "test",
+    "tvg-id": "test",
     "group_title": "SOUTH AFRICA"
   },
   "418": {
@@ -9068,7 +9068,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "test",
+    "tvg-id": "test",
     "group_title": "SOUTH AFRICA"
   },
   "419": {
@@ -9104,7 +9104,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "test",
+    "tvg-id": "test",
     "group_title": "SOUTH AFRICA"
   },
   "420": {
@@ -9140,7 +9140,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "test",
+    "tvg-id": "test",
     "group_title": "SOUTH AFRICA"
   },
   "421": {
@@ -9176,7 +9176,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "test",
+    "tvg-id": "test",
     "group_title": "SOUTH AFRICA"
   },
   "423": {
@@ -9212,7 +9212,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "test",
+    "tvg-id": "test",
     "group_title": "SOUTH AFRICA"
   },
   "425": {
@@ -9248,7 +9248,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "beINSports.us",
+    "tvg-id": "beINSports.us",
     "group_title": "UNITED STATES"
   },
   "426": {
@@ -9284,7 +9284,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "DAZN.1.de",
+    "tvg-id": "DAZN.1.de",
     "group_title": "GERMANY"
   },
   "427": {
@@ -9320,7 +9320,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "DAZN.2.de",
+    "tvg-id": "DAZN.2.de",
     "group_title": "GERMANY"
   },
   "428": {
@@ -9356,7 +9356,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "Eleven.Sports.3.pl",
+    "tvg-id": "Eleven.Sports.3.pl",
     "group_title": "POLAND"
   },
   "429": {
@@ -9392,7 +9392,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "test",
+    "tvg-id": "test",
     "group_title": "SERBIA"
   },
   "430": {
@@ -9428,7 +9428,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "test",
+    "tvg-id": "test",
     "group_title": "SERBIA"
   },
   "431": {
@@ -9464,7 +9464,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "test",
+    "tvg-id": "test",
     "group_title": "SERBIA"
   },
   "432": {
@@ -9500,7 +9500,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "Arena.Sport.1.HD.hr",
+    "tvg-id": "Arena.Sport.1.HD.hr",
     "group_title": "CROATIA"
   },
   "433": {
@@ -9536,7 +9536,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "Arena.Sport.2.HD.hr",
+    "tvg-id": "Arena.Sport.2.HD.hr",
     "group_title": "CROATIA"
   },
   "434": {
@@ -9572,7 +9572,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "Arena.Sport.3.HD.hr",
+    "tvg-id": "Arena.Sport.3.HD.hr",
     "group_title": "CROATIA"
   },
   "435": {
@@ -9608,7 +9608,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "MovistarLigadeCampeones(Spanish).es",
+    "tvg-id": "MovistarLigadeCampeones(Spanish).es",
     "group_title": "SPAIN"
   },
   "436": {
@@ -9644,7 +9644,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "MplusDEPORTES(src01).es",
+    "tvg-id": "MplusDEPORTES(src01).es",
     "group_title": "SPAIN"
   },
   "437": {
@@ -9680,7 +9680,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "test",
+    "tvg-id": "test",
     "group_title": "SPAIN"
   },
   "438": {
@@ -9716,7 +9716,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "MplusDEPORTES2(src01).es",
+    "tvg-id": "MplusDEPORTES2(src01).es",
     "group_title": "SPAIN"
   },
   "439": {
@@ -9752,7 +9752,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "test",
+    "tvg-id": "test",
     "group_title": "ROMANIA"
   },
   "440": {
@@ -9788,7 +9788,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "test",
+    "tvg-id": "test",
     "group_title": "ROMANIA"
   },
   "443": {
@@ -9824,7 +9824,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "Polsat.News.pl",
+    "tvg-id": "Polsat.News.pl",
     "group_title": "POLAND"
   },
   "444": {
@@ -9860,7 +9860,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "TVN.24.pl",
+    "tvg-id": "TVN.24.pl",
     "group_title": "POLAND"
   },
   "445": {
@@ -9896,7 +9896,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "DAZN.1.es",
+    "tvg-id": "DAZN.1.es",
     "group_title": "SPAIN"
   },
   "446": {
@@ -9932,7 +9932,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "DAZN.2.es",
+    "tvg-id": "DAZN.2.es",
     "group_title": "SPAIN"
   },
   "447": {
@@ -9968,7 +9968,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "DAZN.3.es",
+    "tvg-id": "DAZN.3.es",
     "group_title": "SPAIN"
   },
   "448": {
@@ -10004,7 +10004,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "DAZN.4.es",
+    "tvg-id": "DAZN.4.es",
     "group_title": "SPAIN"
   },
   "449": {
@@ -10040,7 +10040,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "SkySp.Mix.HD.uk",
+    "tvg-id": "SkySp.Mix.HD.uk",
     "group_title": "UNITED KINGDOM"
   },
   "450": {
@@ -10076,7 +10076,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "PTV.Sports.pk",
+    "tvg-id": "PTV.Sports.pk",
     "group_title": "PAKISTAN"
   },
   "451": {
@@ -10112,7 +10112,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "Viaplay1(src01).uk",
+    "tvg-id": "Viaplay1(src01).uk",
     "group_title": "UNITED KINGDOM"
   },
   "452": {
@@ -10148,7 +10148,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "TVP.Info.pl",
+    "tvg-id": "TVP.Info.pl",
     "group_title": "POLAND"
   },
   "453": {
@@ -10184,7 +10184,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "test",
+    "tvg-id": "test",
     "group_title": "SERBIA"
   },
   "454": {
@@ -10220,7 +10220,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "SPORT.TV3.HD.pt",
+    "tvg-id": "SPORT.TV3.HD.pt",
     "group_title": "PORTUGAL"
   },
   "455": {
@@ -10256,7 +10256,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "ElevenSports1(src01).pt",
+    "tvg-id": "ElevenSports1(src01).pt",
     "group_title": "PORTUGAL"
   },
   "456": {
@@ -10292,7 +10292,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "ElevenSports2(src01).pt",
+    "tvg-id": "ElevenSports2(src01).pt",
     "group_title": "PORTUGAL"
   },
   "457": {
@@ -10328,7 +10328,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "ElevenSports3(src01).pt",
+    "tvg-id": "ElevenSports3(src01).pt",
     "group_title": "PORTUGAL"
   },
   "458": {
@@ -10364,7 +10364,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "ElevenSports4(src01).pt",
+    "tvg-id": "ElevenSports4(src01).pt",
     "group_title": "PORTUGAL"
   },
   "459": {
@@ -10400,7 +10400,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "ElevenSports5(src01).pt",
+    "tvg-id": "ElevenSports5(src01).pt",
     "group_title": "PORTUGAL"
   },
   "460": {
@@ -10436,7 +10436,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "Sky.Sport.Max.it",
+    "tvg-id": "Sky.Sport.Max.it",
     "group_title": "ITALY"
   },
   "461": {
@@ -10472,7 +10472,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "Sky.Sport.Uno.it",
+    "tvg-id": "Sky.Sport.Uno.it",
     "group_title": "ITALY"
   },
   "462": {
@@ -10508,7 +10508,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "Sky.Sport.Arena.it",
+    "tvg-id": "Sky.Sport.Arena.it",
     "group_title": "ITALY"
   },
   "463": {
@@ -10544,7 +10544,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "Canal+.Foot.fr",
+    "tvg-id": "Canal+.Foot.fr",
     "group_title": "FRANCE"
   },
   "464": {
@@ -10580,7 +10580,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "Canal+.Sport.360.fr",
+    "tvg-id": "Canal+.Sport.360.fr",
     "group_title": "FRANCE"
   },
   "465": {
@@ -10616,7 +10616,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "DIEMA.SPORT.bg",
+    "tvg-id": "DIEMA.SPORT.bg",
     "group_title": "BULGARIA"
   },
   "466": {
@@ -10652,7 +10652,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "DIEMA.SPORT.2.bg",
+    "tvg-id": "DIEMA.SPORT.2.bg",
     "group_title": "BULGARIA"
   },
   "467": {
@@ -10688,7 +10688,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "DIEMA.SPORT.3.bg",
+    "tvg-id": "DIEMA.SPORT.3.bg",
     "group_title": "BULGARIA"
   },
   "468": {
@@ -10724,7 +10724,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "Nova.Sport.bg",
+    "tvg-id": "Nova.Sport.bg",
     "group_title": "BULGARIA"
   },
   "469": {
@@ -10760,7 +10760,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "TF1.fr",
+    "tvg-id": "TF1.fr",
     "group_title": "FRANCE"
   },
   "470": {
@@ -10796,7 +10796,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "M6.fr",
+    "tvg-id": "M6.fr",
     "group_title": "FRANCE"
   },
   "471": {
@@ -10832,7 +10832,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "Ring.BG.bg",
+    "tvg-id": "Ring.BG.bg",
     "group_title": "BULGARIA"
   },
   "472": {
@@ -10868,7 +10868,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "MAXSport1(src01).bg",
+    "tvg-id": "MAXSport1(src01).bg",
     "group_title": "BULGARIA"
   },
   "473": {
@@ -10904,7 +10904,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "MAXSport2(src01).bg",
+    "tvg-id": "MAXSport2(src01).bg",
     "group_title": "BULGARIA"
   },
   "474": {
@@ -10940,7 +10940,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "MAXSport3(src01).bg",
+    "tvg-id": "MAXSport3(src01).bg",
     "group_title": "BULGARIA"
   },
   "475": {
@@ -10976,7 +10976,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "MAXSport4(src01).bg",
+    "tvg-id": "MAXSport4(src01).bg",
     "group_title": "BULGARIA"
   },
   "476": {
@@ -11012,7 +11012,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "BNT.bg",
+    "tvg-id": "BNT.bg",
     "group_title": "BULGARIA"
   },
   "477": {
@@ -11048,7 +11048,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "BNT2(src01).bg",
+    "tvg-id": "BNT2(src01).bg",
     "group_title": "BULGARIA"
   },
   "478": {
@@ -11084,7 +11084,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "BNT.3.bg",
+    "tvg-id": "BNT.3.bg",
     "group_title": "BULGARIA"
   },
   "479": {
@@ -11120,7 +11120,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "bTV.bg",
+    "tvg-id": "bTV.bg",
     "group_title": "BULGARIA"
   },
   "480": {
@@ -11156,7 +11156,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "Nova.TV.bg",
+    "tvg-id": "Nova.TV.bg",
     "group_title": "BULGARIA"
   },
   "481": {
@@ -11192,7 +11192,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "bTVAction(src01).bg",
+    "tvg-id": "bTVAction(src01).bg",
     "group_title": "BULGARIA"
   },
   "482": {
@@ -11228,7 +11228,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "Diema.bg",
+    "tvg-id": "Diema.bg",
     "group_title": "BULGARIA"
   },
   "483": {
@@ -11264,7 +11264,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "FOX.Channel.bg",
+    "tvg-id": "FOX.Channel.bg",
     "group_title": "BULGARIA"
   },
   "484": {
@@ -11300,7 +11300,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "BTV.Lady.bg",
+    "tvg-id": "BTV.Lady.bg",
     "group_title": "BULGARIA"
   },
   "485": {
@@ -11336,7 +11336,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "Diema.Family.bg",
+    "tvg-id": "Diema.Family.bg",
     "group_title": "BULGARIA"
   },
   "486": {
@@ -11372,7 +11372,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "test",
+    "tvg-id": "test",
     "group_title": "AFRICA"
   },
   "487": {
@@ -11408,7 +11408,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "test",
+    "tvg-id": "test",
     "group_title": "AFRICA"
   },
   "489": {
@@ -11444,7 +11444,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "test",
+    "tvg-id": "test",
     "group_title": "AFRICA"
   },
   "490": {
@@ -11480,7 +11480,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "test",
+    "tvg-id": "test",
     "group_title": "AFRICA"
   },
   "491": {
@@ -11516,7 +11516,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "beINSports1.au",
+    "tvg-id": "beINSports1.au",
     "group_title": "AUSTRALIA"
   },
   "492": {
@@ -11552,7 +11552,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "beINSports2.au",
+    "tvg-id": "beINSports2.au",
     "group_title": "AUSTRALIA"
   },
   "493": {
@@ -11588,7 +11588,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "beINSports3.au",
+    "tvg-id": "beINSports3.au",
     "group_title": "AUSTRALIA"
   },
   "494": {
@@ -11624,7 +11624,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "beIN.SPORTS.MAX.4.fr",
+    "tvg-id": "beIN.SPORTS.MAX.4.fr",
     "group_title": "FRANCE"
   },
   "495": {
@@ -11660,7 +11660,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "beIN.SPORTS.MAX.5.fr",
+    "tvg-id": "beIN.SPORTS.MAX.5.fr",
     "group_title": "FRANCE"
   },
   "496": {
@@ -11696,7 +11696,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "beIN.SPORTS.MAX.6.fr",
+    "tvg-id": "beIN.SPORTS.MAX.6.fr",
     "group_title": "FRANCE"
   },
   "497": {
@@ -11732,7 +11732,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "beIN.SPORTS.MAX.7.fr",
+    "tvg-id": "beIN.SPORTS.MAX.7.fr",
     "group_title": "FRANCE"
   },
   "498": {
@@ -11768,7 +11768,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "beIN.SPORTS.MAX.8.fr",
+    "tvg-id": "beIN.SPORTS.MAX.8.fr",
     "group_title": "FRANCE"
   },
   "499": {
@@ -11804,7 +11804,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "beIN.SPORTS.MAX.9.fr",
+    "tvg-id": "beIN.SPORTS.MAX.9.fr",
     "group_title": "FRANCE"
   },
   "500": {
@@ -11840,7 +11840,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "beIN.SPORTS.MAX.10.fr",
+    "tvg-id": "beIN.SPORTS.MAX.10.fr",
     "group_title": "FRANCE"
   },
   "521": {
@@ -11876,7 +11876,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "M+.Vamos.es",
+    "tvg-id": "M+.Vamos.es",
     "group_title": "SPAIN"
   },
   "522": {
@@ -11912,7 +11912,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "BarcaTV(Catalan).es",
+    "tvg-id": "BarcaTV(Catalan).es",
     "group_title": "SPAIN"
   },
   "523": {
@@ -11948,7 +11948,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "RealMadridTV(Spanish).es",
+    "tvg-id": "RealMadridTV(Spanish).es",
     "group_title": "SPAIN"
   },
   "524": {
@@ -11984,7 +11984,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "Eurosport.1.es",
+    "tvg-id": "Eurosport.1.es",
     "group_title": "SPAIN"
   },
   "525": {
@@ -12020,7 +12020,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "Eurosport.2.es",
+    "tvg-id": "Eurosport.2.es",
     "group_title": "SPAIN"
   },
   "526": {
@@ -12056,7 +12056,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "MplusDEPORTES3(src01).es",
+    "tvg-id": "MplusDEPORTES3(src01).es",
     "group_title": "SPAIN"
   },
   "527": {
@@ -12092,7 +12092,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "MplusDEPORTES4(src01).es",
+    "tvg-id": "MplusDEPORTES4(src01).es",
     "group_title": "SPAIN"
   },
   "528": {
@@ -12128,7 +12128,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "MovistarGolf(Spanish).es",
+    "tvg-id": "MovistarGolf(Spanish).es",
     "group_title": "SPAIN"
   },
   "529": {
@@ -12164,7 +12164,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "Teledeporte.es",
+    "tvg-id": "Teledeporte.es",
     "group_title": "SPAIN"
   },
   "530": {
@@ -12200,7 +12200,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "GOL.PLAY.es",
+    "tvg-id": "GOL.PLAY.es",
     "group_title": "SPAIN"
   },
   "531": {
@@ -12236,7 +12236,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "Antena.3.es",
+    "tvg-id": "Antena.3.es",
     "group_title": "SPAIN"
   },
   "532": {
@@ -12272,7 +12272,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "Telecinco.es",
+    "tvg-id": "Telecinco.es",
     "group_title": "SPAIN"
   },
   "533": {
@@ -12308,7 +12308,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "LA.1.es",
+    "tvg-id": "LA.1.es",
     "group_title": "SPAIN"
   },
   "534": {
@@ -12344,7 +12344,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "La.Sexta.es",
+    "tvg-id": "La.Sexta.es",
     "group_title": "SPAIN"
   },
   "535": {
@@ -12380,7 +12380,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "Cuatro.es",
+    "tvg-id": "Cuatro.es",
     "group_title": "SPAIN"
   },
   "536": {
@@ -12416,7 +12416,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "LA.2.es",
+    "tvg-id": "LA.2.es",
     "group_title": "SPAIN"
   },
   "537": {
@@ -12452,7 +12452,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "DAZN.F1.es",
+    "tvg-id": "DAZN.F1.es",
     "group_title": "SPAIN"
   },
   "538": {
@@ -12488,7 +12488,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "DAZN.LALIGA.es",
+    "tvg-id": "DAZN.LALIGA.es",
     "group_title": "SPAIN"
   },
   "539": {
@@ -12524,7 +12524,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "LALIGA.TV.HYPERMOTION.es",
+    "tvg-id": "LALIGA.TV.HYPERMOTION.es",
     "group_title": "SPAIN"
   },
   "540": {
@@ -12560,7 +12560,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "Canal.11.HD.pt",
+    "tvg-id": "Canal.11.HD.pt",
     "group_title": "PORTUGAL"
   },
   "541": {
@@ -12596,7 +12596,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "ONE.HD.il",
+    "tvg-id": "ONE.HD.il",
     "group_title": "ISRAEL"
   },
   "542": {
@@ -12632,7 +12632,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "ONE2.HD.il",
+    "tvg-id": "ONE2.HD.il",
     "group_title": "ISRAEL"
   },
   "543": {
@@ -12668,7 +12668,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "yes.Movies.Action.il",
+    "tvg-id": "yes.Movies.Action.il",
     "group_title": "ISRAEL"
   },
   "544": {
@@ -12704,7 +12704,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "yes.Movies.Kids.il",
+    "tvg-id": "yes.Movies.Kids.il",
     "group_title": "ISRAEL"
   },
   "545": {
@@ -12740,7 +12740,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "yes.Movies.Comedy.il",
+    "tvg-id": "yes.Movies.Comedy.il",
     "group_title": "ISRAEL"
   },
   "546": {
@@ -12776,7 +12776,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "test",
+    "tvg-id": "test",
     "group_title": "ISRAEL"
   },
   "548": {
@@ -12812,7 +12812,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "test",
+    "tvg-id": "test",
     "group_title": "ISRAEL"
   },
   "549": {
@@ -12848,7 +12848,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "test",
+    "tvg-id": "test",
     "group_title": "ISRAEL"
   },
   "550": {
@@ -12884,7 +12884,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "Viaplay2(src01).uk",
+    "tvg-id": "Viaplay2(src01).uk",
     "group_title": "UNITED KINGDOM"
   },
   "551": {
@@ -12920,7 +12920,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "test",
+    "tvg-id": "test",
     "group_title": "ISRAEL"
   },
   "552": {
@@ -12956,7 +12956,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "test",
+    "tvg-id": "test",
     "group_title": "ISRAEL"
   },
   "553": {
@@ -12992,7 +12992,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "test",
+    "tvg-id": "test",
     "group_title": "ISRAEL"
   },
   "554": {
@@ -13028,7 +13028,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "SkySp.Racing.uk",
+    "tvg-id": "SkySp.Racing.uk",
     "group_title": "UNITED KINGDOM"
   },
   "555": {
@@ -13064,7 +13064,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "Racing.TV.uk",
+    "tvg-id": "Racing.TV.uk",
     "group_title": "UNITED KINGDOM"
   },
   "556": {
@@ -13100,7 +13100,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "Sky.Sport.Top.Event.de",
+    "tvg-id": "Sky.Sport.Top.Event.de",
     "group_title": "GERMANY"
   },
   "557": {
@@ -13136,7 +13136,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "Sky.Sport.Mix.de",
+    "tvg-id": "Sky.Sport.Mix.de",
     "group_title": "GERMANY"
   },
   "558": {
@@ -13172,7 +13172,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "Sky.Sport.Bundesliga.1.de",
+    "tvg-id": "Sky.Sport.Bundesliga.1.de",
     "group_title": "GERMANY"
   },
   "559": {
@@ -13208,7 +13208,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "Sky.Sport.Austria.1.HD.de",
+    "tvg-id": "Sky.Sport.Austria.1.HD.de",
     "group_title": "GERMANY"
   },
   "560": {
@@ -13244,7 +13244,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "TVP.1.pl",
+    "tvg-id": "TVP.1.pl",
     "group_title": "POLAND"
   },
   "561": {
@@ -13280,7 +13280,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "TVP.2.pl",
+    "tvg-id": "TVP.2.pl",
     "group_title": "POLAND"
   },
   "562": {
@@ -13316,7 +13316,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "Polsat.pl",
+    "tvg-id": "Polsat.pl",
     "group_title": "POLAND"
   },
   "563": {
@@ -13352,7 +13352,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "Motowizja.pl",
+    "tvg-id": "Motowizja.pl",
     "group_title": "POLAND"
   },
   "564": {
@@ -13388,7 +13388,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "Polsat.Film.pl",
+    "tvg-id": "Polsat.Film.pl",
     "group_title": "POLAND"
   },
   "565": {
@@ -13424,7 +13424,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "TVN.HD.pl",
+    "tvg-id": "TVN.HD.pl",
     "group_title": "POLAND"
   },
   "566": {
@@ -13460,7 +13460,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "CANAL+.PREMIUM.pl",
+    "tvg-id": "CANAL+.PREMIUM.pl",
     "group_title": "POLAND"
   },
   "567": {
@@ -13496,7 +13496,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "CANAL+.Family.pl",
+    "tvg-id": "CANAL+.Family.pl",
     "group_title": "POLAND"
   },
   "568": {
@@ -13532,7 +13532,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "FilmBox.Premium.HD.pl",
+    "tvg-id": "FilmBox.Premium.HD.pl",
     "group_title": "POLAND"
   },
   "569": {
@@ -13568,7 +13568,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "HBO.pl",
+    "tvg-id": "HBO.pl",
     "group_title": "POLAND"
   },
   "570": {
@@ -13604,7 +13604,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "CANAL+.Seriale.pl",
+    "tvg-id": "CANAL+.Seriale.pl",
     "group_title": "POLAND"
   },
   "571": {
@@ -13640,7 +13640,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "sportdigital.de",
+    "tvg-id": "sportdigital.de",
     "group_title": "GERMANY"
   },
   "573": {
@@ -13676,7 +13676,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "test",
+    "tvg-id": "test",
     "group_title": "RUSSIA"
   },
   "574": {
@@ -13712,7 +13712,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "Sky.Sport.Golf.it",
+    "tvg-id": "Sky.Sport.Golf.it",
     "group_title": "ITALY"
   },
   "575": {
@@ -13748,7 +13748,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "Sky.Sport.MotoGP.it",
+    "tvg-id": "Sky.Sport.MotoGP.it",
     "group_title": "ITALY"
   },
   "576": {
@@ -13784,7 +13784,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "Sky.Sport.Tennis.it",
+    "tvg-id": "Sky.Sport.Tennis.it",
     "group_title": "ITALY"
   },
   "577": {
@@ -13820,7 +13820,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "Sky.Sport.F1.it",
+    "tvg-id": "Sky.Sport.F1.it",
     "group_title": "ITALY"
   },
   "578": {
@@ -13856,7 +13856,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "test",
+    "tvg-id": "test",
     "group_title": "QATAR"
   },
   "579": {
@@ -13892,7 +13892,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "test",
+    "tvg-id": "test",
     "group_title": "BOSNIA AND HERZEGOVINA"
   },
   "580": {
@@ -13928,7 +13928,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "Arena.Sport.4.HD.hr",
+    "tvg-id": "Arena.Sport.4.HD.hr",
     "group_title": "CROATIA"
   },
   "581": {
@@ -13964,7 +13964,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "test",
+    "tvg-id": "test",
     "group_title": "SERBIA"
   },
   "582": {
@@ -14000,7 +14000,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "test",
+    "tvg-id": "test",
     "group_title": "SERBIA"
   },
   "583": {
@@ -14036,7 +14036,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "Prima.Sport.1.ro",
+    "tvg-id": "Prima.Sport.1.ro",
     "group_title": "ROMANIA"
   },
   "584": {
@@ -14072,7 +14072,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "Prima.Sport.2.ro",
+    "tvg-id": "Prima.Sport.2.ro",
     "group_title": "ROMANIA"
   },
   "585": {
@@ -14108,7 +14108,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "Prima.Sport.3.ro",
+    "tvg-id": "Prima.Sport.3.ro",
     "group_title": "ROMANIA"
   },
   "586": {
@@ -14144,7 +14144,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "Prima.Sport.4.ro",
+    "tvg-id": "Prima.Sport.4.ro",
     "group_title": "ROMANIA"
   },
   "587": {
@@ -14180,7 +14180,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "Sky.Sport.Select.nz",
+    "tvg-id": "Sky.Sport.Select.nz",
     "group_title": "NEW ZEALAND"
   },
   "588": {
@@ -14216,7 +14216,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "Sky.Sport.1.nz",
+    "tvg-id": "Sky.Sport.1.nz",
     "group_title": "NEW ZEALAND"
   },
   "589": {
@@ -14252,7 +14252,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "Sky.Sport.2.nz",
+    "tvg-id": "Sky.Sport.2.nz",
     "group_title": "NEW ZEALAND"
   },
   "590": {
@@ -14288,7 +14288,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "Sky.Sport.3.nz",
+    "tvg-id": "Sky.Sport.3.nz",
     "group_title": "NEW ZEALAND"
   },
   "591": {
@@ -14324,7 +14324,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "Sky.Sport.4.nz",
+    "tvg-id": "Sky.Sport.4.nz",
     "group_title": "NEW ZEALAND"
   },
   "592": {
@@ -14360,7 +14360,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "Sky.Sport.5.nz",
+    "tvg-id": "Sky.Sport.5.nz",
     "group_title": "NEW ZEALAND"
   },
   "593": {
@@ -14396,7 +14396,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "Sky.Sport.6.nz",
+    "tvg-id": "Sky.Sport.6.nz",
     "group_title": "NEW ZEALAND"
   },
   "594": {
@@ -14432,7 +14432,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "Sky.Sport.7.nz",
+    "tvg-id": "Sky.Sport.7.nz",
     "group_title": "NEW ZEALAND"
   },
   "595": {
@@ -14468,7 +14468,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "Sky.Sport.8.nz",
+    "tvg-id": "Sky.Sport.8.nz",
     "group_title": "NEW ZEALAND"
   },
   "596": {
@@ -14504,7 +14504,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "Sky.Sport.9.nz",
+    "tvg-id": "Sky.Sport.9.nz",
     "group_title": "NEW ZEALAND"
   },
   "597": {
@@ -14540,7 +14540,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "ViaplayXtra.uk",
+    "tvg-id": "ViaplayXtra.uk",
     "group_title": "UNITED KINGDOM"
   },
   "598": {
@@ -14576,7 +14576,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "Willow.Xtra.us",
+    "tvg-id": "Willow.Xtra.us",
     "group_title": "UNITED STATES"
   },
   "599": {
@@ -14612,7 +14612,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "Novasports.Premier.League.gr",
+    "tvg-id": "Novasports.Premier.League.gr",
     "group_title": "GREECE"
   },
   "600": {
@@ -14648,7 +14648,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "test",
+    "tvg-id": "test",
     "group_title": "UNITED ARAB EMIRATES"
   },
   "601": {
@@ -14684,7 +14684,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "test",
+    "tvg-id": "test",
     "group_title": "UNITED ARAB EMIRATES"
   },
   "602": {
@@ -14720,7 +14720,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "CTV.(CFCN).Calgary,.AB.ca",
+    "tvg-id": "CTV.(CFCN).Calgary,.AB.ca",
     "group_title": "CANADA"
   },
   "603": {
@@ -14756,7 +14756,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "Smithsonian.Channel.USA.HD.us",
+    "tvg-id": "Smithsonian.Channel.USA.HD.us",
     "group_title": "UNITED STATES"
   },
   "604": {
@@ -14792,7 +14792,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "test",
+    "tvg-id": "test",
     "group_title": "UNITED ARAB EMIRATES"
   },
   "605": {
@@ -14828,7 +14828,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "test",
+    "tvg-id": "test",
     "group_title": "UNITED ARAB EMIRATES"
   },
   "606": {
@@ -14864,7 +14864,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "test",
+    "tvg-id": "test",
     "group_title": "UNITED ARAB EMIRATES"
   },
   "607": {
@@ -14900,7 +14900,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "Rally.TV.de",
+    "tvg-id": "Rally.TV.de",
     "group_title": "UNITED STATES"
   },
   "609": {
@@ -14936,7 +14936,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "test",
+    "tvg-id": "test",
     "group_title": "UNITED ARAB EMIRATES"
   },
   "610": {
@@ -14972,7 +14972,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "test",
+    "tvg-id": "test",
     "group_title": "UNITED ARAB EMIRATES"
   },
   "611": {
@@ -15008,7 +15008,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "test",
+    "tvg-id": "test",
     "group_title": "EGYPT"
   },
   "612": {
@@ -15044,7 +15044,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "test",
+    "tvg-id": "test",
     "group_title": "EGYPT"
   },
   "613": {
@@ -15080,7 +15080,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "NewsMax.TV.us",
+    "tvg-id": "NewsMax.TV.us",
     "group_title": "UNITED STATES"
   },
   "614": {
@@ -15116,7 +15116,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "test",
+    "tvg-id": "test",
     "group_title": "SAUDI ARABIA"
   },
   "616": {
@@ -15152,7 +15152,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "test",
+    "tvg-id": "test",
     "group_title": "SAUDI ARABIA"
   },
   "617": {
@@ -15188,7 +15188,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "test",
+    "tvg-id": "test",
     "group_title": "SAUDI ARABIA"
   },
   "618": {
@@ -15224,7 +15224,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "test",
+    "tvg-id": "test",
     "group_title": "SAUDI ARABIA"
   },
   "619": {
@@ -15260,7 +15260,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "test",
+    "tvg-id": "test",
     "group_title": "SAUDI ARABIA"
   },
   "622": {
@@ -15296,7 +15296,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "COSMOTE.Sport.1.HD.gr",
+    "tvg-id": "COSMOTE.Sport.1.HD.gr",
     "group_title": "GREECE"
   },
   "623": {
@@ -15332,7 +15332,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "COSMOTE.Sport.2.HD.gr",
+    "tvg-id": "COSMOTE.Sport.2.HD.gr",
     "group_title": "GREECE"
   },
   "625": {
@@ -15368,7 +15368,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "COSMOTE.Sport.4.HD.gr",
+    "tvg-id": "COSMOTE.Sport.4.HD.gr",
     "group_title": "GREECE"
   },
   "628": {
@@ -15404,7 +15404,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "COSMOTE.Sport.7.HD.gr",
+    "tvg-id": "COSMOTE.Sport.7.HD.gr",
     "group_title": "GREECE"
   },
   "631": {
@@ -15440,7 +15440,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "Novasports1.gr",
+    "tvg-id": "Novasports1.gr",
     "group_title": "GREECE"
   },
   "632": {
@@ -15476,7 +15476,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "Novasports2.gr",
+    "tvg-id": "Novasports2.gr",
     "group_title": "GREECE"
   },
   "638": {
@@ -15512,7 +15512,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "Novasports.Prime.gr",
+    "tvg-id": "Novasports.Prime.gr",
     "group_title": "GREECE"
   },
   "640": {
@@ -15548,7 +15548,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "SPORT1+.de",
+    "tvg-id": "SPORT1+.de",
     "group_title": "GERMANY"
   },
   "641": {
@@ -15584,7 +15584,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "SPORT1.de",
+    "tvg-id": "SPORT1.de",
     "group_title": "GERMANY"
   },
   "642": {
@@ -15620,7 +15620,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "test",
+    "tvg-id": "test",
     "group_title": "CHILE"
   },
   "643": {
@@ -15656,7 +15656,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "Fox.Deportes.us",
+    "tvg-id": "Fox.Deportes.us",
     "group_title": "UNITED STATES"
   },
   "644": {
@@ -15692,7 +15692,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "Turner.Classic.Movies.USA.us",
+    "tvg-id": "Turner.Classic.Movies.USA.us",
     "group_title": "UNITED STATES"
   },
   "645": {
@@ -15728,7 +15728,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "La.chaine.l’Équipe.fr",
+    "tvg-id": "La.chaine.l’Équipe.fr",
     "group_title": "FRANCE"
   },
   "646": {
@@ -15764,7 +15764,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "MavTV.USA.us",
+    "tvg-id": "MavTV.USA.us",
     "group_title": "UNITED STATES"
   },
   "647": {
@@ -15800,7 +15800,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "CMT.US.-.Eastern.Feed.us",
+    "tvg-id": "CMT.US.-.Eastern.Feed.us",
     "group_title": "UNITED STATES"
   },
   "648": {
@@ -15836,7 +15836,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "Boomerang.us",
+    "tvg-id": "Boomerang.us",
     "group_title": "UNITED STATES"
   },
   "649": {
@@ -15872,7 +15872,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "Nicktoons.-.East.us",
+    "tvg-id": "Nicktoons.-.East.us",
     "group_title": "UNITED STATES"
   },
   "650": {
@@ -15908,7 +15908,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "TeenNick.-.Eastern.us",
+    "tvg-id": "TeenNick.-.Eastern.us",
     "group_title": "UNITED STATES"
   },
   "651": {
@@ -15944,7 +15944,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "Destination.America.us",
+    "tvg-id": "Destination.America.us",
     "group_title": "UNITED STATES"
   },
   "652": {
@@ -15980,7 +15980,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "Disney.Junior.USA.-.East.us",
+    "tvg-id": "Disney.Junior.USA.-.East.us",
     "group_title": "UNITED STATES"
   },
   "653": {
@@ -16016,7 +16016,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "POP.-.East.us",
+    "tvg-id": "POP.-.East.us",
     "group_title": "UNITED STATES"
   },
   "654": {
@@ -16052,7 +16052,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "test",
+    "tvg-id": "test",
     "group_title": "UNITED STATES"
   },
   "655": {
@@ -16088,7 +16088,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "WEtv.us",
+    "tvg-id": "WEtv.us",
     "group_title": "UNITED STATES"
   },
   "656": {
@@ -16124,7 +16124,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "IFC.HDTV.(East).us",
+    "tvg-id": "IFC.HDTV.(East).us",
     "group_title": "UNITED STATES"
   },
   "657": {
@@ -16160,7 +16160,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "Discovery.Family.Channel.us",
+    "tvg-id": "Discovery.Family.Channel.us",
     "group_title": "UNITED STATES"
   },
   "658": {
@@ -16196,7 +16196,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "SundanceTV.USA.-.East.us",
+    "tvg-id": "SundanceTV.USA.-.East.us",
     "group_title": "UNITED STATES"
   },
   "659": {
@@ -16232,7 +16232,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "VICE.us",
+    "tvg-id": "VICE.us",
     "group_title": "UNITED STATES"
   },
   "660": {
@@ -16268,7 +16268,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "TV.One.us",
+    "tvg-id": "TV.One.us",
     "group_title": "UNITED STATES"
   },
   "661": {
@@ -16304,7 +16304,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "Motor.Trend.HD.us",
+    "tvg-id": "Motor.Trend.HD.us",
     "group_title": "UNITED STATES"
   },
   "662": {
@@ -16340,7 +16340,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "Me.TV.us",
+    "tvg-id": "Me.TV.us",
     "group_title": "UNITED STATES"
   },
   "663": {
@@ -16376,7 +16376,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "NHL.Network.USA.us",
+    "tvg-id": "NHL.Network.USA.us",
     "group_title": "UNITED STATES"
   },
   "664": {
@@ -16412,7 +16412,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "ACC.Network.us",
+    "tvg-id": "ACC.Network.us",
     "group_title": "UNITED STATES"
   },
   "665": {
@@ -16448,7 +16448,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "FYI.USA.-.Eastern.us",
+    "tvg-id": "FYI.USA.-.Eastern.us",
     "group_title": "UNITED STATES"
   },
   "666": {
@@ -16484,7 +16484,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "Nick.Music.(NICM).us",
+    "tvg-id": "Nick.Music.(NICM).us",
     "group_title": "UNITED STATES"
   },
   "669": {
@@ -16520,7 +16520,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "Crime.and.Investigation.Network.USA.HD.us",
+    "tvg-id": "Crime.and.Investigation.Network.USA.HD.us",
     "group_title": "UNITED STATES"
   },
   "671": {
@@ -16556,7 +16556,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "Sky.Premiere.uk",
+    "tvg-id": "Sky.Premiere.uk",
     "group_title": "UNITED KINGDOM"
   },
   "672": {
@@ -16592,7 +16592,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "Sky.Cinema.Select.uk",
+    "tvg-id": "Sky.Cinema.Select.uk",
     "group_title": "UNITED KINGDOM"
   },
   "673": {
@@ -16628,7 +16628,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "Sky.Cinema.Hits.HD.uk",
+    "tvg-id": "Sky.Cinema.Hits.HD.uk",
     "group_title": "UNITED KINGDOM"
   },
   "674": {
@@ -16664,7 +16664,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "Sky.Greats.uk",
+    "tvg-id": "Sky.Greats.uk",
     "group_title": "UNITED KINGDOM"
   },
   "675": {
@@ -16700,7 +16700,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "SkyAnimationHD.uk",
+    "tvg-id": "SkyAnimationHD.uk",
     "group_title": "UNITED KINGDOM"
   },
   "676": {
@@ -16736,7 +16736,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "Sky.Family.HD.uk",
+    "tvg-id": "Sky.Family.HD.uk",
     "group_title": "UNITED KINGDOM"
   },
   "677": {
@@ -16772,7 +16772,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "Sky.Action.uk",
+    "tvg-id": "Sky.Action.uk",
     "group_title": "UNITED KINGDOM"
   },
   "679": {
@@ -16808,7 +16808,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "Sky.Thriller.HD.uk",
+    "tvg-id": "Sky.Thriller.HD.uk",
     "group_title": "UNITED KINGDOM"
   },
   "681": {
@@ -16844,7 +16844,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "Sky.ScFi/HorHD.uk",
+    "tvg-id": "Sky.ScFi/HorHD.uk",
     "group_title": "UNITED KINGDOM"
   },
   "687": {
@@ -16880,7 +16880,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "GOLD(src01).uk",
+    "tvg-id": "GOLD(src01).uk",
     "group_title": "UNITED KINGDOM"
   },
   "689": {
@@ -16916,7 +16916,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "HBO.2.-.Eastern.Feed.us",
+    "tvg-id": "HBO.2.-.Eastern.Feed.us",
     "group_title": "UNITED STATES"
   },
   "690": {
@@ -16952,7 +16952,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "HBO.Comedy.HD.-.East.us",
+    "tvg-id": "HBO.Comedy.HD.-.East.us",
     "group_title": "UNITED STATES"
   },
   "692": {
@@ -16988,7 +16988,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "HBO.Latino.(HBO.7).-.Eastern.us",
+    "tvg-id": "HBO.Latino.(HBO.7).-.Eastern.us",
     "group_title": "UNITED STATES"
   },
   "693": {
@@ -17024,7 +17024,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "HBO.Signature.(HBO.3).-.Eastern.us",
+    "tvg-id": "HBO.Signature.(HBO.3).-.Eastern.us",
     "group_title": "UNITED STATES"
   },
   "694": {
@@ -17060,7 +17060,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "HBO.Zone.HD.-.East.us",
+    "tvg-id": "HBO.Zone.HD.-.East.us",
     "group_title": "UNITED STATES"
   },
   "696": {
@@ -17096,7 +17096,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "Comet.us",
+    "tvg-id": "Comet.us",
     "group_title": "UNITED STATES"
   },
   "697": {
@@ -17132,7 +17132,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "CookingChannel.us",
+    "tvg-id": "CookingChannel.us",
     "group_title": "UNITED STATES"
   },
   "699": {
@@ -17168,7 +17168,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "Great.American.Family.us",
+    "tvg-id": "Great.American.Family.us",
     "group_title": "UNITED STATES"
   },
   "700": {
@@ -17204,7 +17204,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "test",
+    "tvg-id": "test",
     "group_title": "FRANCE"
   },
   "701": {
@@ -17240,7 +17240,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "test",
+    "tvg-id": "test",
     "group_title": "FRANCE"
   },
   "702": {
@@ -17276,7 +17276,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "test",
+    "tvg-id": "test",
     "group_title": "FRANCE"
   },
   "703": {
@@ -17312,7 +17312,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "test",
+    "tvg-id": "test",
     "group_title": "FRANCE"
   },
   "704": {
@@ -17348,7 +17348,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "test",
+    "tvg-id": "test",
     "group_title": "FRANCE"
   },
   "705": {
@@ -17384,7 +17384,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "test",
+    "tvg-id": "test",
     "group_title": "FRANCE"
   },
   "706": {
@@ -17420,7 +17420,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "test",
+    "tvg-id": "test",
     "group_title": "FRANCE"
   },
   "707": {
@@ -17456,7 +17456,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "test",
+    "tvg-id": "test",
     "group_title": "FRANCE"
   },
   "715": {
@@ -17492,7 +17492,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "CleoTV.us",
+    "tvg-id": "CleoTV.us",
     "group_title": "UNITED STATES"
   },
   "716": {
@@ -17528,7 +17528,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "Sporting.TV.HD.pt",
+    "tvg-id": "Sporting.TV.HD.pt",
     "group_title": "PORTUGAL"
   },
   "717": {
@@ -17564,7 +17564,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "AXN.Movies.HD.pt",
+    "tvg-id": "AXN.Movies.HD.pt",
     "group_title": "PORTUGAL"
   },
   "718": {
@@ -17600,7 +17600,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "Porto.Canal.HD.pt",
+    "tvg-id": "Porto.Canal.HD.pt",
     "group_title": "PORTUGAL"
   },
   "719": {
@@ -17636,7 +17636,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "RTP.1.HD.pt",
+    "tvg-id": "RTP.1.HD.pt",
     "group_title": "PORTUGAL"
   },
   "720": {
@@ -17672,7 +17672,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "RTP.2.HD.pt",
+    "tvg-id": "RTP.2.HD.pt",
     "group_title": "PORTUGAL"
   },
   "721": {
@@ -17708,7 +17708,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "RTP.3.HD.pt",
+    "tvg-id": "RTP.3.HD.pt",
     "group_title": "PORTUGAL"
   },
   "722": {
@@ -17744,7 +17744,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "SIC.HD.pt",
+    "tvg-id": "SIC.HD.pt",
     "group_title": "PORTUGAL"
   },
   "723": {
@@ -17780,7 +17780,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "TVI.HD.pt",
+    "tvg-id": "TVI.HD.pt",
     "group_title": "PORTUGAL"
   },
   "724": {
@@ -17816,7 +17816,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "TVI.Reality.HD.pt",
+    "tvg-id": "TVI.Reality.HD.pt",
     "group_title": "PORTUGAL"
   },
   "725": {
@@ -17852,7 +17852,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "ARTE.de",
+    "tvg-id": "ARTE.de",
     "group_title": "GERMANY"
   },
   "726": {
@@ -17888,7 +17888,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "3sat.de",
+    "tvg-id": "3sat.de",
     "group_title": "GERMANY"
   },
   "727": {
@@ -17924,7 +17924,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "BBC.One.de",
+    "tvg-id": "BBC.One.de",
     "group_title": "GERMANY"
   },
   "728": {
@@ -17960,7 +17960,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "ZDFinfo.de",
+    "tvg-id": "ZDFinfo.de",
     "group_title": "GERMANY"
   },
   "729": {
@@ -17996,7 +17996,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "SAT.1.de",
+    "tvg-id": "SAT.1.de",
     "group_title": "GERMANY"
   },
   "730": {
@@ -18032,7 +18032,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "ProSieben.de",
+    "tvg-id": "ProSieben.de",
     "group_title": "GERMANY"
   },
   "731": {
@@ -18068,7 +18068,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "kabel.eins.de",
+    "tvg-id": "kabel.eins.de",
     "group_title": "GERMANY"
   },
   "732": {
@@ -18104,7 +18104,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "sixx.de",
+    "tvg-id": "sixx.de",
     "group_title": "GERMANY"
   },
   "733": {
@@ -18140,7 +18140,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "MDR.de",
+    "tvg-id": "MDR.de",
     "group_title": "GERMANY"
   },
   "734": {
@@ -18176,7 +18176,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "WDR.de",
+    "tvg-id": "WDR.de",
     "group_title": "GERMANY"
   },
   "735": {
@@ -18212,7 +18212,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "SWR/SR.de",
+    "tvg-id": "SWR/SR.de",
     "group_title": "GERMANY"
   },
   "736": {
@@ -18248,7 +18248,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "NDR.de",
+    "tvg-id": "NDR.de",
     "group_title": "GERMANY"
   },
   "738": {
@@ -18284,7 +18284,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "SUPER.RTL.de",
+    "tvg-id": "SUPER.RTL.de",
     "group_title": "GERMANY"
   },
   "739": {
@@ -18320,7 +18320,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "SRFernsehen(src01).de",
+    "tvg-id": "SRFernsehen(src01).de",
     "group_title": "GERMANY"
   },
   "740": {
@@ -18356,7 +18356,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "RTL.de",
+    "tvg-id": "RTL.de",
     "group_title": "GERMANY"
   },
   "741": {
@@ -18392,7 +18392,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "test",
+    "tvg-id": "test",
     "group_title": "PAKISTAN"
   },
   "742": {
@@ -18428,7 +18428,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "AXS.TV.USA.HD.us",
+    "tvg-id": "AXS.TV.USA.HD.us",
     "group_title": "UNITED STATES"
   },
   "744": {
@@ -18464,7 +18464,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "FashionTV(src01).uk",
+    "tvg-id": "FashionTV(src01).uk",
     "group_title": "UNITED KINGDOM"
   },
   "745": {
@@ -18500,7 +18500,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "National.Geographic.Wild.us",
+    "tvg-id": "National.Geographic.Wild.us",
     "group_title": "UNITED STATES"
   },
   "746": {
@@ -18536,7 +18536,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "Canal.TyC.Sports.ar",
+    "tvg-id": "Canal.TyC.Sports.ar",
     "group_title": "ARGENTINA"
   },
   "747": {
@@ -18572,7 +18572,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "C.More.Fotboll.se",
+    "tvg-id": "C.More.Fotboll.se",
     "group_title": "SWEDEN"
   },
   "748": {
@@ -18608,7 +18608,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "COZITV.us",
+    "tvg-id": "COZITV.us",
     "group_title": "UNITED STATES"
   },
   "749": {
@@ -18644,7 +18644,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "test",
+    "tvg-id": "test",
     "group_title": "SPAIN"
   },
   "750": {
@@ -18680,7 +18680,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "C-SPAN.us",
+    "tvg-id": "C-SPAN.us",
     "group_title": "UNITED STATES"
   },
   "751": {
@@ -18716,7 +18716,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "FETV.(Family.Entertainment.Television).us",
+    "tvg-id": "FETV.(Family.Entertainment.Television).us",
     "group_title": "UNITED STATES"
   },
   "752": {
@@ -18752,7 +18752,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "Grit.us",
+    "tvg-id": "Grit.us",
     "group_title": "UNITED STATES"
   },
   "753": {
@@ -18788,7 +18788,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "NBC.Sports.Bay.Area.us",
+    "tvg-id": "NBC.Sports.Bay.Area.us",
     "group_title": "UNITED STATES"
   },
   "754": {
@@ -18824,7 +18824,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "NBC.Sports.Boston.us",
+    "tvg-id": "NBC.Sports.Boston.us",
     "group_title": "UNITED STATES"
   },
   "755": {
@@ -18860,7 +18860,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "NBC.Sports.California.us",
+    "tvg-id": "NBC.Sports.California.us",
     "group_title": "UNITED STATES"
   },
   "756": {
@@ -18896,7 +18896,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "FOX.Soccer.Plus.us",
+    "tvg-id": "FOX.Soccer.Plus.us",
     "group_title": "UNITED STATES"
   },
   "757": {
@@ -18932,7 +18932,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "The.Fight.Network.(United.States).(TFN).us",
+    "tvg-id": "The.Fight.Network.(United.States).(TFN).us",
     "group_title": "UNITED STATES"
   },
   "758": {
@@ -18968,7 +18968,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "Fox.Sports.2.us",
+    "tvg-id": "Fox.Sports.2.us",
     "group_title": "UNITED STATES"
   },
   "759": {
@@ -19004,7 +19004,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "SNY:.SportsNet.New.York.(Comcast).us",
+    "tvg-id": "SNY:.SportsNet.New.York.(Comcast).us",
     "group_title": "UNITED STATES"
   },
   "760": {
@@ -19040,7 +19040,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "Globo.SP.HD.br",
+    "tvg-id": "Globo.SP.HD.br",
     "group_title": "BRAZIL"
   },
   "761": {
@@ -19076,7 +19076,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "Globo.Rio.br",
+    "tvg-id": "Globo.Rio.br",
     "group_title": "BRAZIL"
   },
   "762": {
@@ -19112,7 +19112,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "New.England.Sports.Network.us",
+    "tvg-id": "New.England.Sports.Network.us",
     "group_title": "UNITED STATES"
   },
   "763": {
@@ -19148,7 +19148,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "YES.Network.us   ",
+    "tvg-id": "YES.Network.us   ",
     "group_title": "UNITED STATES"
   },
   "764": {
@@ -19184,7 +19184,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "Spectrum.Sportsnet.Lakers.us",
+    "tvg-id": "Spectrum.Sportsnet.Lakers.us",
     "group_title": "UNITED STATES"
   },
   "765": {
@@ -19220,7 +19220,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "MSG.-.Syracuse.us",
+    "tvg-id": "MSG.-.Syracuse.us",
     "group_title": "UNITED STATES"
   },
   "766": {
@@ -19256,7 +19256,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "ABC.(WABC).New.York,.NY.us",
+    "tvg-id": "ABC.(WABC).New.York,.NY.us",
     "group_title": "UNITED STATES"
   },
   "767": {
@@ -19292,7 +19292,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "FOXSPORTS.ar",
+    "tvg-id": "FOXSPORTS.ar",
     "group_title": "ARGENTINA"
   },
   "768": {
@@ -19328,7 +19328,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "FOX.(WNYW).New.York,.NY.us",
+    "tvg-id": "FOX.(WNYW).New.York,.NY.us",
     "group_title": "UNITED STATES"
   },
   "769": {
@@ -19364,7 +19364,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "NBC.(WNBC).New.York,.NY.us   ",
+    "tvg-id": "NBC.(WNBC).New.York,.NY.us   ",
     "group_title": "UNITED STATES"
   },
   "770": {
@@ -19400,7 +19400,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "Marquee.Sports.Network.us",
+    "tvg-id": "Marquee.Sports.Network.us",
     "group_title": "UNITED STATES"
   },
   "771": {
@@ -19436,7 +19436,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "test",
+    "tvg-id": "test",
     "group_title": "OTHERS"
   },
   "772": {
@@ -19472,7 +19472,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "Eurosport1.fr",
+    "tvg-id": "Eurosport1.fr",
     "group_title": "FRANCE"
   },
   "773": {
@@ -19508,7 +19508,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "Eurosport2.fr",
+    "tvg-id": "Eurosport2.fr",
     "group_title": "FRANCE"
   },
   "774": {
@@ -19544,7 +19544,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "ERT1.DTT-1.gr",
+    "tvg-id": "ERT1.DTT-1.gr",
     "group_title": "GREECE"
   },
   "775": {
@@ -19580,7 +19580,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "FOXWeather.us",
+    "tvg-id": "FOXWeather.us",
     "group_title": "UNITED STATES"
   },
   "777": {
@@ -19616,7 +19616,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "NBC.Sports.Philadelphia.HDTV.(NBCSPAHD).us",
+    "tvg-id": "NBC.Sports.Philadelphia.HDTV.(NBCSPAHD).us",
     "group_title": "UNITED STATES"
   },
   "778": {
@@ -19652,7 +19652,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "test",
+    "tvg-id": "test",
     "group_title": "UNITED STATES"
   },
   "779": {
@@ -19688,7 +19688,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "test",
+    "tvg-id": "test",
     "group_title": "CROATIA"
   },
   "780": {
@@ -19724,7 +19724,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "test",
+    "tvg-id": "test",
     "group_title": "CROATIA"
   },
   "781": {
@@ -19760,7 +19760,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "test",
+    "tvg-id": "test",
     "group_title": "QATAR"
   },
   "782": {
@@ -19796,7 +19796,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "test",
+    "tvg-id": "test",
     "group_title": "QATAR"
   },
   "783": {
@@ -19832,7 +19832,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "test",
+    "tvg-id": "test",
     "group_title": "QATAR"
   },
   "784": {
@@ -19868,7 +19868,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "test",
+    "tvg-id": "test",
     "group_title": "QATAR"
   },
   "788": {
@@ -19904,7 +19904,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "FoxSports2(Argentina).ar",
+    "tvg-id": "FoxSports2(Argentina).ar",
     "group_title": "ARGENTINA"
   },
   "789": {
@@ -19940,7 +19940,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "FoxSports3(Argentina).ar",
+    "tvg-id": "FoxSports3(Argentina).ar",
     "group_title": "ARGENTINA"
   },
   "790": {
@@ -19976,7 +19976,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "CMTV.HD.pt",
+    "tvg-id": "CMTV.HD.pt",
     "group_title": "PORTUGAL"
   },
   "791": {
@@ -20012,7 +20012,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "MGM+.HDTV.(East).(MGM+HD).us",
+    "tvg-id": "MGM+.HDTV.(East).(MGM+HD).us",
     "group_title": "UNITED STATES"
   },
   "792": {
@@ -20048,7 +20048,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "Showtime.2.-.Eastern.us",
+    "tvg-id": "Showtime.2.-.Eastern.us",
     "group_title": "UNITED STATES"
   },
   "793": {
@@ -20084,7 +20084,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "Showtime.Showcase.HD.-.East.us",
+    "tvg-id": "Showtime.Showcase.HD.-.East.us",
     "group_title": "UNITED STATES"
   },
   "794": {
@@ -20120,7 +20120,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "Showtime.Extreme.-.Eastern.us",
+    "tvg-id": "Showtime.Extreme.-.Eastern.us",
     "group_title": "UNITED STATES"
   },
   "795": {
@@ -20156,7 +20156,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "Showtime.FamilyZone.(East).(SHOFe).us",
+    "tvg-id": "Showtime.FamilyZone.(East).(SHOFe).us",
     "group_title": "UNITED STATES"
   },
   "796": {
@@ -20192,7 +20192,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "Showtime.Next.HD.-.Eastern.us",
+    "tvg-id": "Showtime.Next.HD.-.Eastern.us",
     "group_title": "UNITED STATES"
   },
   "799": {
@@ -20228,7 +20228,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "test",
+    "tvg-id": "test",
     "group_title": "IRELAND"
   },
   "800": {
@@ -20264,7 +20264,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "6eren.dk",
+    "tvg-id": "6eren.dk",
     "group_title": "DENMARK"
   },
   "801": {
@@ -20300,7 +20300,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "DR1.dk",
+    "tvg-id": "DR1.dk",
     "group_title": "DENMARK"
   },
   "802": {
@@ -20336,7 +20336,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "DR2.dk",
+    "tvg-id": "DR2.dk",
     "group_title": "DENMARK"
   },
   "803": {
@@ -20372,7 +20372,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "Kanal4.dk",
+    "tvg-id": "Kanal4.dk",
     "group_title": "DENMARK"
   },
   "804": {
@@ -20408,7 +20408,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "Kanal5.dk",
+    "tvg-id": "Kanal5.dk",
     "group_title": "DENMARK"
   },
   "805": {
@@ -20444,7 +20444,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "Canal9.dk",
+    "tvg-id": "Canal9.dk",
     "group_title": "DENMARK"
   },
   "806": {
@@ -20480,7 +20480,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "MTV.dk",
+    "tvg-id": "MTV.dk",
     "group_title": "DENMARK"
   },
   "807": {
@@ -20516,7 +20516,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "TV2bornholm(src01).dk",
+    "tvg-id": "TV2bornholm(src01).dk",
     "group_title": "DENMARK"
   },
   "808": {
@@ -20552,7 +20552,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "test",
+    "tvg-id": "test",
     "group_title": "DENMARK"
   },
   "809": {
@@ -20588,7 +20588,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "TV3Sport1(src01).dk",
+    "tvg-id": "TV3Sport1(src01).dk",
     "group_title": "DENMARK"
   },
   "810": {
@@ -20624,7 +20624,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "TV2Sport(src01).dk",
+    "tvg-id": "TV2Sport(src01).dk",
     "group_title": "DENMARK"
   },
   "811": {
@@ -20660,7 +20660,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "test",
+    "tvg-id": "test",
     "group_title": "DENMARK"
   },
   "814": {
@@ -20696,7 +20696,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "C.More.Series.se",
+    "tvg-id": "C.More.Series.se",
     "group_title": "SWEDEN"
   },
   "816": {
@@ -20732,7 +20732,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "V.Film.Family.se",
+    "tvg-id": "V.Film.Family.se",
     "group_title": "SWEDEN"
   },
   "817": {
@@ -20768,7 +20768,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "TV2(src01).dk",
+    "tvg-id": "TV2(src01).dk",
     "group_title": "DENMARK"
   },
   "818": {
@@ -20804,7 +20804,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "TV2Zulu(src01).dk",
+    "tvg-id": "TV2Zulu(src01).dk",
     "group_title": "DENMARK"
   },
   "819": {
@@ -20840,7 +20840,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "TV3plus(src01).dk",
+    "tvg-id": "TV3plus(src01).dk",
     "group_title": "DENMARK"
   },
   "820": {
@@ -20876,7 +20876,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "FoxLeague.au",
+    "tvg-id": "FoxLeague.au",
     "group_title": "AUSTRALIA"
   },
   "821": {
@@ -20912,7 +20912,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "FoxSports503.au",
+    "tvg-id": "FoxSports503.au",
     "group_title": "AUSTRALIA"
   },
   "822": {
@@ -20948,7 +20948,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "FoxFooty.au",
+    "tvg-id": "FoxFooty.au",
     "group_title": "AUSTRALIA"
   },
   "823": {
@@ -20984,7 +20984,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "FoxSports505.au",
+    "tvg-id": "FoxSports505.au",
     "group_title": "AUSTRALIA"
   },
   "824": {
@@ -21020,7 +21020,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "FoxSports506.au",
+    "tvg-id": "FoxSports506.au",
     "group_title": "AUSTRALIA"
   },
   "825": {
@@ -21056,7 +21056,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "test",
+    "tvg-id": "test",
     "group_title": "AUSTRALIA"
   },
   "826": {
@@ -21092,7 +21092,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "LFCTV.HD.uk",
+    "tvg-id": "LFCTV.HD.uk",
     "group_title": "UNITED KINGDOM"
   },
   "829": {
@@ -21128,7 +21128,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "MASN.us",
+    "tvg-id": "MASN.us",
     "group_title": "UNITED STATES"
   },
   "830": {
@@ -21164,7 +21164,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "FoxSportsPremium(Spanish).mx",
+    "tvg-id": "FoxSportsPremium(Spanish).mx",
     "group_title": "MEXICO"
   },
   "832": {
@@ -21200,7 +21200,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "CBC.(CBLT).Toronto,.ON.ca",
+    "tvg-id": "CBC.(CBLT).Toronto,.ON.ca",
     "group_title": "CANADA"
   },
   "833": {
@@ -21236,7 +21236,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "TVA.Sports.ca",
+    "tvg-id": "TVA.Sports.ca",
     "group_title": "CANADA"
   },
   "834": {
@@ -21272,7 +21272,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "TVA.Sports.3.ca",
+    "tvg-id": "TVA.Sports.3.ca",
     "group_title": "CANADA"
   },
   "835": {
@@ -21308,7 +21308,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "Noovo.(CFJP).Montreal,.QC.ca",
+    "tvg-id": "Noovo.(CFJP).Montreal,.QC.ca",
     "group_title": "CANADA"
   },
   "836": {
@@ -21344,7 +21344,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "Global.BC.ca",
+    "tvg-id": "Global.BC.ca",
     "group_title": "CANADA"
   },
   "838": {
@@ -21380,7 +21380,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "CTV2.Toronto,.ON.ca",
+    "tvg-id": "CTV2.Toronto,.ON.ca",
     "group_title": "CANADA"
   },
   "839": {
@@ -21416,7 +21416,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "RDS.(Réseau.des.sports).ca",
+    "tvg-id": "RDS.(Réseau.des.sports).ca",
     "group_title": "CANADA"
   },
   "840": {
@@ -21452,7 +21452,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "RDS2(src01).ca",
+    "tvg-id": "RDS2(src01).ca",
     "group_title": "CANADA"
   },
   "841": {
@@ -21488,7 +21488,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "RDS.Info.ca",
+    "tvg-id": "RDS.Info.ca",
     "group_title": "CANADA"
   },
   "842": {
@@ -21524,7 +21524,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "TVO.(TV.Ontario).HD.ca",
+    "tvg-id": "TVO.(TV.Ontario).HD.ca",
     "group_title": "CANADA"
   },
   "843": {
@@ -21560,7 +21560,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "Prima.TV.ro",
+    "tvg-id": "Prima.TV.ro",
     "group_title": "ROMANIA"
   },
   "844": {
@@ -21596,7 +21596,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "Azteca.(XHOR).mx",
+    "tvg-id": "Azteca.(XHOR).mx",
     "group_title": "MEXICO"
   },
   "850": {
@@ -21632,7 +21632,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "Rai1.it",
+    "tvg-id": "Rai1.it",
     "group_title": "ITALY"
   },
   "851": {
@@ -21668,7 +21668,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "Rai2.it",
+    "tvg-id": "Rai2.it",
     "group_title": "ITALY"
   },
   "853": {
@@ -21704,7 +21704,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "Rai3.it",
+    "tvg-id": "Rai3.it",
     "group_title": "ITALY"
   },
   "857": {
@@ -21740,7 +21740,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "20(Italian).it",
+    "tvg-id": "20(Italian).it",
     "group_title": "ITALY"
   },
   "859": {
@@ -21776,7 +21776,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "Sky.Cinema.Collection.it",
+    "tvg-id": "Sky.Cinema.Collection.it",
     "group_title": "ITALY"
   },
   "860": {
@@ -21812,7 +21812,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "Sky.Cinema.Uno.it",
+    "tvg-id": "Sky.Cinema.Uno.it",
     "group_title": "ITALY"
   },
   "861": {
@@ -21848,7 +21848,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "Sky.Cinema.Action.it",
+    "tvg-id": "Sky.Cinema.Action.it",
     "group_title": "ITALY"
   },
   "862": {
@@ -21884,7 +21884,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "Sky.Cinema.Comedy.it",
+    "tvg-id": "Sky.Cinema.Comedy.it",
     "group_title": "ITALY"
   },
   "863": {
@@ -21920,7 +21920,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "Sky.Cinema.Uno.+24.it",
+    "tvg-id": "Sky.Cinema.Uno.+24.it",
     "group_title": "ITALY"
   },
   "864": {
@@ -21956,7 +21956,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "Sky.Cinema.Romance.it",
+    "tvg-id": "Sky.Cinema.Romance.it",
     "group_title": "ITALY"
   },
   "865": {
@@ -21992,7 +21992,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "Sky.Cinema.Family.it",
+    "tvg-id": "Sky.Cinema.Family.it",
     "group_title": "ITALY"
   },
   "867": {
@@ -22028,7 +22028,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "Sky.Cinema.Drama.it",
+    "tvg-id": "Sky.Cinema.Drama.it",
     "group_title": "ITALY"
   },
   "868": {
@@ -22064,7 +22064,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "Sky.Cinema.Suspense.it",
+    "tvg-id": "Sky.Cinema.Suspense.it",
     "group_title": "ITALY"
   },
   "869": {
@@ -22100,7 +22100,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "Sky.Sport24.it",
+    "tvg-id": "Sky.Sport24.it",
     "group_title": "ITALY"
   },
   "870": {
@@ -22136,7 +22136,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "Sky.Sport.Calcio.it",
+    "tvg-id": "Sky.Sport.Calcio.it",
     "group_title": "ITALY"
   },
   "871": {
@@ -22172,7 +22172,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "Sky.Sport..251.it",
+    "tvg-id": "Sky.Sport..251.it",
     "group_title": "ITALY"
   },
   "872": {
@@ -22208,7 +22208,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "Sky.Sport..252.it",
+    "tvg-id": "Sky.Sport..252.it",
     "group_title": "ITALY"
   },
   "873": {
@@ -22244,7 +22244,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "Sky.Sport..253.it",
+    "tvg-id": "Sky.Sport..253.it",
     "group_title": "ITALY"
   },
   "874": {
@@ -22280,7 +22280,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "Sky.Sport..254.it",
+    "tvg-id": "Sky.Sport..254.it",
     "group_title": "ITALY"
   },
   "875": {
@@ -22316,7 +22316,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "Sky.Sport..255.it",
+    "tvg-id": "Sky.Sport..255.it",
     "group_title": "ITALY"
   },
   "876": {
@@ -22352,7 +22352,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "Sky.Sport..256.it",
+    "tvg-id": "Sky.Sport..256.it",
     "group_title": "ITALY"
   },
   "877": {
@@ -22388,7 +22388,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "Sky.Sport..257.it",
+    "tvg-id": "Sky.Sport..257.it",
     "group_title": "ITALY"
   },
   "878": {
@@ -22424,7 +22424,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "Eurosport.1.it",
+    "tvg-id": "Eurosport.1.it",
     "group_title": "ITALY"
   },
   "879": {
@@ -22460,7 +22460,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "Eurosport.2.it",
+    "tvg-id": "Eurosport.2.it",
     "group_title": "ITALY"
   },
   "880": {
@@ -22496,7 +22496,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "Sky.Serie.it",
+    "tvg-id": "Sky.Serie.it",
     "group_title": "ITALY"
   },
   "881": {
@@ -22532,7 +22532,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "Sky.Sport.Uno.it",
+    "tvg-id": "Sky.Sport.Uno.it",
     "group_title": "ITALY"
   },
   "882": {
@@ -22568,7 +22568,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "RaiSport.it",
+    "tvg-id": "RaiSport.it",
     "group_title": "ITALY"
   },
   "883": {
@@ -22604,7 +22604,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "SBS.6.nl",
+    "tvg-id": "SBS.6.nl",
     "group_title": "NETHERLANDS"
   },
   "884": {
@@ -22640,7 +22640,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "Sky.Sport.Tennis.de",
+    "tvg-id": "Sky.Sport.Tennis.de",
     "group_title": "GERMANY"
   },
   "892": {
@@ -22676,7 +22676,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "FanDuel.Sports.Network.Florida.us",
+    "tvg-id": "FanDuel.Sports.Network.Florida.us",
     "group_title": "UNITED STATES"
   },
   "896": {
@@ -22712,7 +22712,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "FanDuel.Sports.Network.Midwest.St..Louis.us",
+    "tvg-id": "FanDuel.Sports.Network.Midwest.St..Louis.us",
     "group_title": "UNITED STATES"
   },
   "898": {
@@ -22748,7 +22748,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "FanDuel.Sports.Network.North.us",
+    "tvg-id": "FanDuel.Sports.Network.North.us",
     "group_title": "UNITED STATES"
   },
   "901": {
@@ -22784,7 +22784,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "FanDuel.Sports.Network.San.Diego.us",
+    "tvg-id": "FanDuel.Sports.Network.San.Diego.us",
     "group_title": "UNITED STATES"
   },
   "902": {
@@ -22820,7 +22820,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "FanDuel.Sports.Network.SoCal.us",
+    "tvg-id": "FanDuel.Sports.Network.SoCal.us",
     "group_title": "UNITED STATES"
   },
   "905": {
@@ -22856,7 +22856,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "Fanduel.Sports.Sun.us",
+    "tvg-id": "Fanduel.Sports.Sun.us",
     "group_title": "UNITED STATES"
   },
   "910": {
@@ -22892,7 +22892,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "test",
+    "tvg-id": "test",
     "group_title": "UNITED STATES"
   },
   "911": {
@@ -22928,7 +22928,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "Cytavision.Sports1.HD.cy",
+    "tvg-id": "Cytavision.Sports1.HD.cy",
     "group_title": "CYPRUS"
   },
   "912": {
@@ -22964,7 +22964,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "Cytavision.Sports2.HD.cy",
+    "tvg-id": "Cytavision.Sports2.HD.cy",
     "group_title": "CYPRUS"
   },
   "920": {
@@ -23000,7 +23000,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "Root.Sports.Northwest.us",
+    "tvg-id": "Root.Sports.Northwest.us",
     "group_title": "UNITED STATES"
   },
   "921": {
@@ -23036,7 +23036,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "Space.City.Home.Network.us",
+    "tvg-id": "Space.City.Home.Network.us",
     "group_title": "UNITED STATES"
   },
   "922": {
@@ -23072,7 +23072,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "SportsNet.Pittsburgh.us",
+    "tvg-id": "SportsNet.Pittsburgh.us",
     "group_title": "UNITED STATES"
   },
   "923": {
@@ -23108,7 +23108,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "Altitude.Sports.-.Denver.us",
+    "tvg-id": "Altitude.Sports.-.Denver.us",
     "group_title": "UNITED STATES"
   },
   "924": {
@@ -23144,7 +23144,7 @@
       "Accept-Encoding": "gzip",
       "Sec-Fetch-Dest": "video"
     },
-    "tvg_id": "Monumental.Sports.Network.us",
+    "tvg-id": "Monumental.Sports.Network.us",
     "group_title": "UNITED STATES"
   }
 }
